@@ -1,0 +1,19 @@
+name: README Update
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README
+        run: node .
+      - name: Commit & Push
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_email: 'github-actions@but-it-actually.works'
+          author_name: '༼ つ ◕_◕ ༽つ'
+          message: 'Update README.md'
