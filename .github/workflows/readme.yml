@@ -1,6 +1,7 @@
 name: README Update
 
 on:
+  push:
   schedule:
     - cron: '0 * * * *' # every hour
 
