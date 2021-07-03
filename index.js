@@ -11,9 +11,9 @@ fs.readFile("./README_template.md", "utf8", async (err, template) => {
   fs.writeFile("./README.md", template
     .replace(/{{AGE}}/g, `\`${Math.floor((Date.now() - age) / yearInMs * 1e4) / 1e4}\``)
 
-    .replace(/{{COUNTR-SERVERS}}/g, countr.server_count)
-    .replace(/{{COUNTR-RANKING}}/g, countr.server_count_rank)
-    .replace(/{{COUNTR-COUNTS}}/g, countr.count)
-    
+    .replace(/{{COUNTR-SERVERS}}/g, countr.server_count.toLocaleString("en-US"))
+    .replace(/{{COUNTR-RANKING}}/g, countr.server_count_rank.toLocaleString("en-US"))
+    .replace(/{{COUNTR-COUNTS}}/g, countr.count.toLocaleString("en-US"))
+
   , "utf8", () => console.log("done"))
 })
