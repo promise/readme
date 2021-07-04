@@ -6,7 +6,7 @@
 
 # 👋 I'm Glenn
 
-a `17.4179`-year old old node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.418`-year old old node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## Countr Stats
 
@@ -14,6 +14,6 @@ a `17.4179`-year old old node developer cruising through life with a terrible mu
 
 ## Hourly dose of Inspiration
 
-![inspirobot.me](https://generated.inspirobot.me/a/Ra6V2Z1w6z.jpg)
+![inspirobot.me](https://generated.inspirobot.me/a/5keGDxdWJA.jpg)
 
 > Thanks for checking out my profile.
