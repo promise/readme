@@ -14,6 +14,6 @@ a `17.4435`-year old old node developer cruising through life with a terrible mu
 
 ## Hourly dose of Inspiration
 
-![inspirobot.me](https://generated.inspirobot.me/a/d7eEdNjo68.jpg)
+![inspirobot.me](https://generated.inspirobot.me/a/yZedwKlX6n.jpg)
 
 > Thanks for checking out my profile.
