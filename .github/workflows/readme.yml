@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Pull changes (if any)
+        run: git pull
       - name: Node install
         run: npm i
       - name: Update README
