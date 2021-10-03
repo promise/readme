@@ -3,6 +3,7 @@
 [![discord:vscode](https://dev.discordprofiles.me/badge/vscode/110090225929191424?style=flat-square)](https://discord.com/users/110090225929191424)
 [![discord:spotify](https://dev.discordprofiles.me/badge/spotify/110090225929191424?style=flat-square)](https://dev.discordprofiles.me/openspotify/110090225929191424)
 [![discord:chat](https://badgen.net/discord/members/Ccj5bjb?style=flat-square)](https://discord.gg/Ccj5bjb)
+[![github:action_status](https://github.com/promise/promise/actions/workflows/readme.yml/badge.svg?branch=master)](https://github.com/promise/promise/actions/workflows/readme.yml)
 
 # 👋 I'm Glenn
 
