@@ -24,4 +24,5 @@ jobs:
           author_email: 'github-actions@but-it-actually.works'
           author_name: '༼ つ ◕_◕ ༽つ'
           message: 'Update README.md'
+          branch: 'master'
           force: true
