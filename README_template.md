@@ -6,7 +6,7 @@
 
 # 👋 I'm Glenn
 
-a {{AGE}}-year old old node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a {{AGE}}-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## Countr Stats
 
