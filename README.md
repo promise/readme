@@ -6,15 +6,15 @@
 
 # 👋 I'm Glenn
 
-a `17.7267`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.7268`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## Countr Stats
 
-[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 80,600 servers and is ranked [#129 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 78,000 counts this week!
+[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 80,600 servers and is ranked [#129 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 84,000 counts this week!
 
 ## Hourly dose of Inspiration
 
-![inspirobot.me](https://generated.inspirobot.me/a/d7eEVzjrJ8.jpg)
+![inspirobot.me](https://generated.inspirobot.me/a/12PY2dxA6B.jpg)
 
 > Thanks for checking out my profile.
 
