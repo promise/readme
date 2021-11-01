@@ -14,7 +14,13 @@ a `17.7469`-year old Node developer cruising through life with a terrible music 
 
 ## Hourly dose of Inspiration
 
-![inspirobot.me](https://generated.inspirobot.me/a/1QJxynp1Pz.jpg)
+![inspirobot.me](https://generated.inspirobot.me/a/NBP5qwa9P1.jpg)
+
+## FAQ
+
+### You have unsigned commits, why?
+
+I am trying out [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits) on GitHub, starting from November 1st 2021. Any commits before this that is "unverified" is still me, but I will try and verify each commit going forward.
 
 > Thanks for checking out my profile.
 
