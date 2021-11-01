@@ -16,6 +16,12 @@ a {{AGE}}-year old Node developer cruising through life with a terrible music ta
 
 ![inspirobot.me]({{INSPIROBOT}})
 
+## FAQ
+
+### You have unsigned commits, why?
+
+I am trying out [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits) on GitHub, starting from November 1st 2021. Any commits before this that is "unverified" is still me, but I will try and verify each commit going forward.
+
 > Thanks for checking out my profile.
 
 [![profile automation](https://img.shields.io/github/workflow/status/promise/promise/README%20Update?label=profile%20automation&style=flat-square)](https://github.com/promise/promise/actions/workflows/readme.yml)
