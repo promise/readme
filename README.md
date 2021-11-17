@@ -10,11 +10,11 @@ a `17.7886`-year old Node developer cruising through life with a terrible music 
 
 ## Countr Stats
 
-[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 81,600 servers and is ranked [#132 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 209,000 counts this week!
+[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 81,600 servers and is ranked [#132 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 212,000 counts this week!
 
 ## Hourly dose of Inspiration
 
-![inspirobot.me](https://generated.inspirobot.me/a/yZedwdmo6n.jpg)
+![inspirobot.me](https://generated.inspirobot.me/a/wGJgdlpkPQ.jpg)
 
 ## FAQ
 
