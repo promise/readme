@@ -10,21 +10,31 @@ a `17.8723`-year old Node developer cruising through life with a terrible music 
 
 ## GitHub Activity
 
+* ⬆️ Pushed 2 commits to promise/promise
 * ⬆️ Pushed 1 commit to promise/promise
 * ⬆️ Pushed 1 commit to promise/promise
 * ⬆️ Pushed 3 commits to biaw/phone
 * 🎉 Merged PR #13 in biaw/phone
 * 🗣 Commented on #13 in biaw/phone
-
-## GitHub Stars
-
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 12 | [promise/ytdl-discord-bot](https://github.com/promise/ytdl-discord-bot) | An example of how you can implement ytdl-core into Discord using discord.js. |
-| 📦 | 3 | [discord-hoku/hoku](https://github.com/discord-hoku/hoku) | discord.js alternative |
-| 📦 | 1 | [promise/24-7](https://github.com/promise/24-7) | A Discord bot made public for educational and learning purposes. Feel free to use this in your code. |
-| 📦 | 1 | [Ta1al/support-bot](https://github.com/Ta1al/support-bot) | A Support bot for Promise Solutions |
-| 📦 | 0 | [promise/graveyard](https://github.com/promise/graveyard) | A place for old repositories that are no longer maintained |
+* ⬆️ Pushed 2 commits to biaw/phone
+* 💪 Opened PR #13 in biaw/phone
+* ⬆️ Pushed 1 commit to biaw/multidomain
+* ⬆️ Pushed 1 commit to biaw/multidomain
+* ⬆️ Pushed 1 commit to biaw/multidomain
+* ⬆️ Pushed 5 commits to promise/phone
+* 🎉 Merged PR #12 in promise/phone
+* 🗣 Commented on #12 in promise/phone
+* ⬆️ Pushed 1 commit to promise/phone
+* 💪 Opened PR #12 in promise/phone
+* ❗️ Closed issue #146 in countr/countr
+* 🗣 Commented on #146 in countr/countr
+* ⬆️ Pushed 5 commits to promise/phone
+* 🎉 Merged PR #11 in promise/phone
+* ❗️ Closed issue #10 in promise/phone
+* ⬆️ Pushed 1 commit to promise/phone
+* ⬆️ Pushed 1 commit to promise/phone
+* 💪 Opened PR #11 in promise/phone
+* ⬆️ Pushed 1 commit to promise/phone
 
 ## Countr Stats
 
