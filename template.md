@@ -10,11 +10,7 @@ a {{AGE}}-year old Node developer cruising through life with a terrible music ta
 
 ## GitHub Activity
 
-<!--GITHUB_ACTIVITY:{"rows": 5}-->
-
-## GitHub Stars
-
-<!--GITHUB_REPOS:{"rows": 5}-->
+<!--GITHUB_ACTIVITY:{"rows": 25}-->
 
 ## Countr Stats
 
