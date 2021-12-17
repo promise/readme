@@ -10,7 +10,9 @@ a {{AGE}}-year old Node developer cruising through life with a terrible music ta
 
 ## GitHub Activity
 
-<!--GITHUB_ACTIVITY:{"rows": 25}-->
+```
+<!--GITHUB_ACTIVITY:{"rows": 25, "raw": true}-->
+```
 
 ## Countr Stats
 
@@ -22,6 +24,4 @@ a {{AGE}}-year old Node developer cruising through life with a terrible music ta
 
 I am trying out [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits) on GitHub, starting from November 1st 2021. Any commits before this that is "unverified" is still me, but I will try and verify each commit going forward.
 
-> Thanks for checking out my profile.
-
-[![Profile Automation](https://img.shields.io/github/workflow/status/biaw/phone/README%20Update?label=automation)](https://github.com/biaw/phone/actions/workflows/README.yml)
+> Thanks for checking out my profile. [![Profile Automation](https://img.shields.io/github/workflow/status/promise/promise/README%20Update?label=automation)](https://github.com/promise/promise/actions/workflows/README.yml)
