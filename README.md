@@ -10,31 +10,33 @@ a `17.8723`-year old Node developer cruising through life with a terrible music 
 
 ## GitHub Activity
 
-* ⬆️ Pushed 2 commits to promise/promise
-* ⬆️ Pushed 1 commit to promise/promise
-* ⬆️ Pushed 1 commit to promise/promise
-* ⬆️ Pushed 3 commits to biaw/phone
-* 🎉 Merged PR #13 in biaw/phone
-* 🗣 Commented on #13 in biaw/phone
-* ⬆️ Pushed 2 commits to biaw/phone
-* 💪 Opened PR #13 in biaw/phone
-* ⬆️ Pushed 1 commit to biaw/multidomain
-* ⬆️ Pushed 1 commit to biaw/multidomain
-* ⬆️ Pushed 1 commit to biaw/multidomain
-* ⬆️ Pushed 5 commits to promise/phone
-* 🎉 Merged PR #12 in promise/phone
-* 🗣 Commented on #12 in promise/phone
-* ⬆️ Pushed 1 commit to promise/phone
-* 💪 Opened PR #12 in promise/phone
-* ❗️ Closed issue #146 in countr/countr
-* 🗣 Commented on #146 in countr/countr
-* ⬆️ Pushed 5 commits to promise/phone
-* 🎉 Merged PR #11 in promise/phone
-* ❗️ Closed issue #10 in promise/phone
-* ⬆️ Pushed 1 commit to promise/phone
-* ⬆️ Pushed 1 commit to promise/phone
-* 💪 Opened PR #11 in promise/phone
-* ⬆️ Pushed 1 commit to promise/phone
+```
+⬆️ Pushed 2 commits to promise/promise
+⬆️ Pushed 2 commits to promise/promise
+⬆️ Pushed 1 commit to promise/promise
+⬆️ Pushed 1 commit to promise/promise
+⬆️ Pushed 3 commits to biaw/phone
+🎉 Merged PR #13 in biaw/phone
+🗣 Commented on #13 in biaw/phone
+⬆️ Pushed 2 commits to biaw/phone
+💪 Opened PR #13 in biaw/phone
+⬆️ Pushed 1 commit to biaw/multidomain
+⬆️ Pushed 1 commit to biaw/multidomain
+⬆️ Pushed 1 commit to biaw/multidomain
+⬆️ Pushed 5 commits to promise/phone
+🎉 Merged PR #12 in promise/phone
+🗣 Commented on #12 in promise/phone
+⬆️ Pushed 1 commit to promise/phone
+💪 Opened PR #12 in promise/phone
+❗️ Closed issue #146 in countr/countr
+🗣 Commented on #146 in countr/countr
+⬆️ Pushed 5 commits to promise/phone
+🎉 Merged PR #11 in promise/phone
+❗️ Closed issue #10 in promise/phone
+⬆️ Pushed 1 commit to promise/phone
+⬆️ Pushed 1 commit to promise/phone
+💪 Opened PR #11 in promise/phone
+```
 
 ## Countr Stats
 
@@ -46,6 +48,4 @@ a `17.8723`-year old Node developer cruising through life with a terrible music 
 
 I am trying out [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits) on GitHub, starting from November 1st 2021. Any commits before this that is "unverified" is still me, but I will try and verify each commit going forward.
 
-> Thanks for checking out my profile.
-
-[![Profile Automation](https://img.shields.io/github/workflow/status/biaw/phone/README%20Update?label=automation)](https://github.com/biaw/phone/actions/workflows/README.yml)
+> Thanks for checking out my profile. [![Profile Automation](https://img.shields.io/github/workflow/status/promise/promise/README%20Update?label=automation)](https://github.com/promise/promise/actions/workflows/README.yml)
