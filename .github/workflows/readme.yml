@@ -6,23 +6,41 @@ on:
     - cron: '0 * * * *' # every hour
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Pull changes (if any)
-        run: git pull
-      - name: Node install
-        run: npm i
-      - name: Update README
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Set up node
+        uses: actions/setup-node@v2
+        with:
+          node-version: "16.x"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update using actions-js/profile-readme
+        uses: actions-js/profile-readme@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: promise
+          template: "./template.md"
+
+      - name: Update using custom code
         run: node .
+
       - name: Commit & Push
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          author_email: 'github-actions@but-it-actually.works'
-          author_name: '༼ つ ◕_◕ ༽つ'
-          message: 'Update README.md'
-          branch: 'master'
+          author_email: 'profile-automation@but-it-actually.works'
+          author_name: '🤖'
+          coauthor_email: 'me@promise.solutions'
+          coauthor_name: 'Promise'
+          message: "Profile Automation"
+          branch: "master"
           force: true
