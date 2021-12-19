@@ -6,11 +6,28 @@
 
 # 👋 I'm Glenn
 
-a `17.8758`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.876`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+⬆️ Pushed 2 commits to biaw/test-area
+🎉 Merged PR #5 in biaw/test-area
+💪 Opened PR #5 in biaw/test-area
+⬆️ Pushed 3 commits to biaw/test-area
+🎉 Merged PR #4 in biaw/test-area
+💪 Opened PR #4 in biaw/test-area
+⬆️ Pushed 3 commits to biaw/test-area
+🎉 Merged PR #3 in biaw/test-area
+⬆️ Pushed 1 commit to biaw/test-area
+💪 Opened PR #3 in biaw/test-area
+⬆️ Pushed 2 commits to biaw/phone
+🎉 Merged PR #14 in biaw/phone
+💪 Opened PR #14 in biaw/phone
+❌ Closed PR #2 in biaw/test-area
+🗣 Commented on #2 in biaw/test-area
+⬆️ Pushed 1 commit to biaw/test-area
+💪 Opened PR #2 in biaw/test-area
 ⬆️ Pushed 1 commit to biaw/.github
 ⬆️ Pushed 2 commits to biaw/test-area
 🎉 Merged PR #1 in biaw/test-area
@@ -19,28 +36,11 @@ a `17.8758`-year old Node developer cruising through life with a terrible music 
 🍴 Forked promise/the-impostor from biaw/the-impostor
 ⬆️ Pushed 1 commit to biaw/.github
 ⬆️ Pushed 2 commits to promise/promise
-⬆️ Pushed 2 commits to promise/promise
-⬆️ Pushed 1 commit to promise/promise
-⬆️ Pushed 1 commit to promise/promise
-⬆️ Pushed 3 commits to biaw/phone
-🎉 Merged PR #13 in biaw/phone
-🗣 Commented on #13 in biaw/phone
-⬆️ Pushed 2 commits to biaw/phone
-💪 Opened PR #13 in biaw/phone
-⬆️ Pushed 1 commit to biaw/multidomain
-⬆️ Pushed 1 commit to biaw/multidomain
-⬆️ Pushed 1 commit to biaw/multidomain
-⬆️ Pushed 5 commits to promise/phone
-🎉 Merged PR #12 in promise/phone
-🗣 Commented on #12 in promise/phone
-⬆️ Pushed 1 commit to promise/phone
-💪 Opened PR #12 in promise/phone
-❗️ Closed issue #146 in countr/countr
 ```
 
 ## Countr Stats
 
-[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 83,400 servers and is ranked [#135 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 554,000 counts this week!
+[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 83,400 servers and is ranked [#135 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 563,000 counts this week!
 
 ## FAQ
 
