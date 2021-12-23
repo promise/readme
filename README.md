@@ -6,11 +6,19 @@
 
 # 👋 I'm Glenn
 
-a `17.8878`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.8879`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+⬆️ Pushed 4 commits to biaw/multidomain
+🎉 Merged PR #1 in biaw/multidomain
+⬆️ Pushed 3 commits to biaw/multidomain
+🎉 Merged PR #2 in biaw/multidomain
+⬆️ Pushed 2 commits to biaw/multidomain
+🎉 Merged PR #3 in biaw/multidomain
+⬆️ Pushed 2 commits to biaw/imagehost
+🎉 Merged PR #1 in biaw/imagehost
 💪 Opened PR #1 in biaw/imagehost
 💪 Opened PR #3 in biaw/multidomain
 💪 Opened PR #2 in biaw/multidomain
@@ -28,19 +36,11 @@ a `17.8878`-year old Node developer cruising through life with a terrible music 
 ⬆️ Pushed 2 commits to biaw/test-area
 🎉 Merged PR #10 in biaw/test-area
 💪 Opened PR #10 in biaw/test-area
-💪 Opened PR #9 in biaw/test-area
-⬆️ Pushed 1 commit to biaw/test-area
-⬆️ Pushed 1 commit to biaw/test-area
-⬆️ Pushed 1 commit to biaw/test-area
-⬆️ Pushed 3 commits to biaw/test-area
-🎉 Merged PR #8 in biaw/test-area
-⬆️ Pushed 1 commit to biaw/test-area
-💪 Opened PR #8 in biaw/test-area
 ```
 
 ## Countr Stats
 
-[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 83,500 servers and is ranked [#134 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 265,000 counts this week!
+[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 83,500 servers and is ranked [#134 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 270,000 counts this week!
 
 ## FAQ
 
