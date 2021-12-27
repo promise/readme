@@ -41,8 +41,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           author_email: 'profile-automation@but-it-actually.works'
           author_name: '🤖'
-          coauthor_email: 'me@promise.solutions'
-          coauthor_name: 'Promise'
           message: "Profile Automation"
           branch: "master"
           force: true
