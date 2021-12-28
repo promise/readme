@@ -6,11 +6,29 @@
 
 # 👋 I'm Glenn
 
-a `17.9009`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.901`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+⬆️ Pushed 3 commits to biaw/imagehost
+🎉 Merged PR #2 in biaw/imagehost
+⬆️ Pushed 3 commits to biaw/multidomain
+🎉 Merged PR #4 in biaw/multidomain
+⬆️ Pushed 3 commits to biaw/test-area
+🎉 Merged PR #13 in biaw/test-area
+⬆️ Pushed 1 commit to biaw/phone
+💪 Opened PR #14 in biaw/test-area
+⬆️ Pushed 1 commit to countr/countr
+⬆️ Pushed 1 commit to biaw/test-area
+⬆️ Pushed 1 commit to biaw/imagehost
+⬆️ Pushed 1 commit to biaw/multidomain
+🗣 Commented on #17 in biaw/phone
+⬆️ Pushed 1 commit to biaw/phone
+❌ Closed PR #274 in vinitshahdeo/inspirational-quotes
+⬆️ Pushed 3 commits to biaw/phone
+🎉 Merged PR #16 in biaw/phone
+⬆️ Pushed 1 commit to biaw/phone
 ⬆️ Pushed 1 commit to countr/countr
 🎉 Merged PR #147 in countr/countr
 ⬆️ Pushed 1 commit to countr/countr
@@ -18,29 +36,11 @@ a `17.9009`-year old Node developer cruising through life with a terrible music 
 🎉 Merged PR #149 in countr/countr
 ⬆️ Pushed 1 commit to countr/countr
 🗣 Commented on #147 in countr/countr
-🗣 Commented on #148 in countr/countr
-🗣 Commented on #149 in countr/countr
-⬆️ Pushed 1 commit to countr/countr
-⬆️ Pushed 1 commit to countr/countr
-⬆️ Pushed 1 commit to countr/countr
-💪 Opened PR #2 in biaw/imagehost
-💪 Opened PR #4 in biaw/multidomain
-💪 Opened PR #13 in biaw/test-area
-💪 Opened PR #16 in biaw/phone
-⬆️ Pushed 8 commits to countr/countr
-⬆️ Pushed 5 commits to countr/countr
-🗣 Commented on #112 in countr/countr
-⬆️ Pushed 7 commits to countr/countr
-⬆️ Pushed 1 commit to promise/promise
-⬆️ Pushed 4 commits to countr/countr
-⬆️ Pushed 10 commits to countr/countr
-⬆️ Pushed 4 commits to biaw/multidomain
-🎉 Merged PR #1 in biaw/multidomain
 ```
 
 ## Countr Stats
 
-[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 83,600 servers and is ranked [#134 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 104,000 counts this week!
+[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 83,700 servers and is ranked [#134 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 108,000 counts this week!
 
 ## FAQ
 
