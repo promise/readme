@@ -12,4 +12,6 @@ export default {
   comment: "🗣",
   fork: "🍴",
   review: "📝",
+  create: "🎨",
+  delete: "🗑",
 };
