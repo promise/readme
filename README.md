@@ -1,21 +1,24 @@
-[![discord:status](https://dev.discordprofiles.me/badge/status/110090225929191424?style=flat-square)](https://discord.com/users/110090225929191424)
-[![discord:playing](https://dev.discordprofiles.me/badge/playing/110090225929191424?style=flat-square)](https://discord.com/users/110090225929191424)
-[![discord:vscode](https://dev.discordprofiles.me/badge/vscode/110090225929191424?style=flat-square)](https://discord.com/users/110090225929191424)
-[![discord:spotify](https://dev.discordprofiles.me/badge/spotify/110090225929191424?style=flat-square)](https://dev.discordprofiles.me/openspotify/110090225929191424)
-[![discord:chat](https://img.shields.io/discord/449576301997588490?style=flat-square)](https://discord.gg/Ccj5bjb)
+[![discord:status](https://dev.discordprofiles.me/badge/status/110090225929191424)](https://discord.com/users/110090225929191424)
+[![discord:playing](https://dev.discordprofiles.me/badge/playing/110090225929191424)](https://discord.com/users/110090225929191424)
+[![discord:vscode](https://dev.discordprofiles.me/badge/vscode/110090225929191424)](https://discord.com/users/110090225929191424)
+[![discord:spotify](https://dev.discordprofiles.me/badge/spotify/110090225929191424)](https://dev.discordprofiles.me/openspotify/110090225929191424)
+[![discord:chat](https://img.shields.io/discord/449576301997588490)](https://i.promise.solutions/discord)
 
 # 👋 I'm Glenn
 
-a `17.9192`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.9193`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 2 commits to promise/promise
 ✨ Pushed 2 commits to promise/promise
 ✨ Pushed 2 commits to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 2 commits to promise/promise
 ✨ Pushed 1 commit to promise/promise
+📝 Created review (approved) on PR #28 in biaw/phone
 ✨ Pushed 2 commits to biaw/test-area
 ✨ Pushed 2 commits to biaw/phone
 ✨ Pushed 2 commits to biaw/multidomain
@@ -30,12 +33,9 @@ a `17.9192`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to biaw/imagehost
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to biaw/eslint-config
+🎨 Created biaw/eslint-config
+🎨 Created biaw/eslint-config
 ✨ Pushed 1 commit to biaw/.github
-🗣 Commented on #4 in biaw/imagehost
-🗣 Commented on #5 in biaw/imagehost
-🗣 Commented on #5 in biaw/multidomain
-🗣 Commented on #6 in biaw/imagehost
-🗣 Commented on #6 in biaw/multidomain
 ```
 
 ## Repositories I maintain
