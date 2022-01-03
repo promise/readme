@@ -11,6 +11,7 @@ a `17.9193`-year old Node developer cruising through life with a terrible music 
 ## GitHub Activity
 
 ```
+✨ Pushed 2 commits to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 2 commits to promise/promise
 ✨ Pushed 2 commits to promise/promise
@@ -34,8 +35,6 @@ a `17.9193`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to biaw/eslint-config
 🎨 Created biaw/eslint-config
-🎨 Created biaw/eslint-config
-✨ Pushed 1 commit to biaw/.github
 ```
 
 ## Repositories I maintain
