@@ -11,41 +11,41 @@ a `17.919`-year old Node developer cruising through life with a terrible music t
 ## GitHub Activity
 
 ```
-⬆️ Pushed 2 commits to promise/promise
-⬆️ Pushed 1 commit to promise/promise
-⬆️ Pushed 2 commits to biaw/test-area
-⬆️ Pushed 2 commits to biaw/phone
-⬆️ Pushed 2 commits to biaw/multidomain
-⬆️ Pushed 2 commits to biaw/imagehost
-⬆️ Pushed 1 commit to countr/countr
-⬆️ Pushed 1 commit to countr/countr
-⬆️ Pushed 4 commits to countr/countr
-⬆️ Pushed 1 commit to biaw/test-area
-⬆️ Pushed 1 commit to biaw/test-area
-⬆️ Pushed 1 commit to biaw/phone
-⬆️ Pushed 1 commit to biaw/multidomain
-⬆️ Pushed 1 commit to biaw/imagehost
-⬆️ Pushed 2 commits to countr/countr
-⬆️ Pushed 1 commit to biaw/eslint-config
-⬆️ Pushed 1 commit to biaw/.github
+⬆✨ Pushed 1 commit to promise/promise
+⬆✨ Pushed 2 commits to promise/promise
+⬆✨ Pushed 1 commit to promise/promise
+⬆✨ Pushed 2 commits to biaw/test-area
+⬆✨ Pushed 2 commits to biaw/phone
+⬆✨ Pushed 2 commits to biaw/multidomain
+⬆✨ Pushed 2 commits to biaw/imagehost
+⬆✨ Pushed 1 commit to countr/countr
+⬆✨ Pushed 1 commit to countr/countr
+⬆✨ Pushed 4 commits to countr/countr
+⬆✨ Pushed 1 commit to biaw/test-area
+⬆✨ Pushed 1 commit to biaw/test-area
+⬆✨ Pushed 1 commit to biaw/phone
+⬆✨ Pushed 1 commit to biaw/multidomain
+⬆✨ Pushed 1 commit to biaw/imagehost
+⬆✨ Pushed 2 commits to countr/countr
+⬆✨ Pushed 1 commit to biaw/eslint-config
+⬆✨ Pushed 1 commit to biaw/.github
 🗣 Commented on #4 in biaw/imagehost
 🗣 Commented on #5 in biaw/imagehost
 🗣 Commented on #5 in biaw/multidomain
 🗣 Commented on #6 in biaw/imagehost
 🗣 Commented on #6 in biaw/multidomain
-⬆️ Pushed 15 commits to biaw/test-area
+⬆✨ Pushed 15 commits to biaw/test-area
 🗣 Commented on #17 in biaw/test-area
-⬆️ Pushed 1 commit to biaw/test-area
 ```
 
 ## Repositories I maintain
 
 * [`biaw/phone`](https://github.com/biaw/phone): A Discord application to call your cellphone through Twilio in case of emergencies\
-[![biaw/phone last commit](https://img.shields.io/github/last-commit/biaw/phone?label=⬆️)](https://github.com/biaw/phone/commits)
-[![biaw/phone issues](https://img.shields.io/github/issues-raw/biaw/phone?label=❗️)](https://github.com/biaw/phone/issues)
+[![biaw/phone last commit](https://img.shields.io/github/last-commit/biaw/phone?label=✨)](https://github.com/biaw/phone/commits)
+[![biaw/phone issues](https://img.shields.io/github/issues-raw/biaw/phone?label=❓)](https://github.com/biaw/phone/issues)
 [![biaw/phone pull requests](https://img.shields.io/github/issues-pr-raw/biaw/phone?label=💪)](https://github.com/biaw/phone/pulls)
 [![biaw/phone stars](https://img.shields.io/github/stars/biaw/phone?label=⭐)](https://github.com/biaw/phone/stargazers)
-[![biaw/phone build badge](https://img.shields.io/github/workflow/status/biaw/phone/Build%20and%20publish)](https://github.com/biaw/phone/actions/workflows/build-and-publish.yml)
+[![biaw/phone build badge](https://img.shields.io/github/workflow/status/biaw/phone/Build%20and%20publish?label=📦)](https://github.com/biaw/phone/actions/workflows/build-and-publish.yml)
 
 ## FAQ
 
