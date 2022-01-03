@@ -11,34 +11,43 @@ a `17.919`-year old Node developer cruising through life with a terrible music t
 ## GitHub Activity
 
 ```
-⬆✨ Pushed 1 commit to promise/promise
-⬆✨ Pushed 2 commits to promise/promise
-⬆✨ Pushed 1 commit to promise/promise
-⬆✨ Pushed 2 commits to biaw/test-area
-⬆✨ Pushed 2 commits to biaw/phone
-⬆✨ Pushed 2 commits to biaw/multidomain
-⬆✨ Pushed 2 commits to biaw/imagehost
-⬆✨ Pushed 1 commit to countr/countr
-⬆✨ Pushed 1 commit to countr/countr
-⬆✨ Pushed 4 commits to countr/countr
-⬆✨ Pushed 1 commit to biaw/test-area
-⬆✨ Pushed 1 commit to biaw/test-area
-⬆✨ Pushed 1 commit to biaw/phone
-⬆✨ Pushed 1 commit to biaw/multidomain
-⬆✨ Pushed 1 commit to biaw/imagehost
-⬆✨ Pushed 2 commits to countr/countr
-⬆✨ Pushed 1 commit to biaw/eslint-config
-⬆✨ Pushed 1 commit to biaw/.github
+✨ Pushed 2 commits to promise/promise
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 2 commits to promise/promise
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 2 commits to biaw/test-area
+✨ Pushed 2 commits to biaw/phone
+✨ Pushed 2 commits to biaw/multidomain
+✨ Pushed 2 commits to biaw/imagehost
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 4 commits to countr/countr
+✨ Pushed 1 commit to biaw/test-area
+✨ Pushed 1 commit to biaw/test-area
+✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to biaw/multidomain
+✨ Pushed 1 commit to biaw/imagehost
+✨ Pushed 2 commits to countr/countr
+✨ Pushed 1 commit to biaw/eslint-config
+✨ Pushed 1 commit to biaw/.github
 🗣 Commented on #4 in biaw/imagehost
 🗣 Commented on #5 in biaw/imagehost
 🗣 Commented on #5 in biaw/multidomain
 🗣 Commented on #6 in biaw/imagehost
 🗣 Commented on #6 in biaw/multidomain
-⬆✨ Pushed 15 commits to biaw/test-area
-🗣 Commented on #17 in biaw/test-area
+✨ Pushed 15 commits to biaw/test-area
 ```
 
 ## Repositories I maintain
+
+* [`countr/countr`](https://github.com/countr/countr): The source code of Countr\
+[![countr/countr last commit](https://img.shields.io/github/last-commit/countr/countr?label=✨)](https://github.com/countr/countr/commits)
+[![countr/countr issues](https://img.shields.io/github/issues-raw/countr/countr?label=❓)](https://github.com/countr/countr/issues)
+[![countr/countr pull requests](https://img.shields.io/github/issues-pr-raw/countr/countr?label=💪)](https://github.com/countr/countr/pulls)
+[![countr/countr stars](https://img.shields.io/github/stars/countr/countr?label=⭐)](https://github.com/countr/countr/stargazers)
+[![countr/countr build badge](https://img.shields.io/github/workflow/status/countr/countr/Test%20build?label=📦)](https://github.com/countr/countr/actions/workflows/build-test.yml)
+[![countr/countr lint badge](https://img.shields.io/github/workflow/status/countr/countr/Linting?label=👌)](https://github.com/countr/countr/actions/workflows/linting.yml)
+[![countr/countr scan badge](https://img.shields.io/github/workflow/status/countr/countr/Analysis%20and%20Scans?label=🔎)](https://github.com/countr/countr/actions/workflows/analysis-and-scans.yml)
 
 * [`biaw/phone`](https://github.com/biaw/phone): A Discord application to call your cellphone through Twilio in case of emergencies\
 [![biaw/phone last commit](https://img.shields.io/github/last-commit/biaw/phone?label=✨)](https://github.com/biaw/phone/commits)
@@ -46,6 +55,38 @@ a `17.919`-year old Node developer cruising through life with a terrible music t
 [![biaw/phone pull requests](https://img.shields.io/github/issues-pr-raw/biaw/phone?label=💪)](https://github.com/biaw/phone/pulls)
 [![biaw/phone stars](https://img.shields.io/github/stars/biaw/phone?label=⭐)](https://github.com/biaw/phone/stargazers)
 [![biaw/phone build badge](https://img.shields.io/github/workflow/status/biaw/phone/Build%20and%20publish?label=📦)](https://github.com/biaw/phone/actions/workflows/build-and-publish.yml)
+[![biaw/phone lint badge](https://img.shields.io/github/workflow/status/biaw/phone/Linting?label=👌)](https://github.com/biaw/phone/actions/workflows/linting.yml)
+[![biaw/phone scan badge](https://img.shields.io/github/workflow/status/biaw/phone/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/phone/actions/workflows/analysis-and-scans.yml)
+[![biaw/phone test badge](https://img.shields.io/github/workflow/status/biaw/phone/Testing?label=🔬)](https://github.com/biaw/phone/actions/workflows/testing.yml)
+
+* [`biaw/test-area`](https://github.com/biaw/test-area): A Discord bot to easily create testing servers, without having to worry about writing in that 2FA code to delete it later.\
+[![biaw/test-area last commit](https://img.shields.io/github/last-commit/biaw/test-area?label=✨)](https://github.com/biaw/test-area/commits)
+[![biaw/test-area issues](https://img.shields.io/github/issues-raw/biaw/test-area?label=❓)](https://github.com/biaw/test-area/issues)
+[![biaw/test-area pull requests](https://img.shields.io/github/issues-pr-raw/biaw/test-area?label=💪)](https://github.com/biaw/test-area/pulls)
+[![biaw/test-area stars](https://img.shields.io/github/stars/biaw/test-area?label=⭐)](https://github.com/biaw/test-area/stargazers)
+[![biaw/test-area build badge](https://img.shields.io/github/workflow/status/biaw/test-area/Build%20and%20publish?label=📦)](https://github.com/biaw/test-area/actions/workflows/build-and-publish.yml)
+[![biaw/test-area lint badge](https://img.shields.io/github/workflow/status/biaw/test-area/Linting?label=👌)](https://github.com/biaw/test-area/actions/workflows/linting.yml)
+[![biaw/test-area scan badge](https://img.shields.io/github/workflow/status/biaw/test-area/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/test-area/actions/workflows/analysis-and-scans.yml)
+
+* [`biaw/multidomain`](https://github.com/biaw/multidomain): A webserver using Express that can deliver static pages to multiple domains\
+[![biaw/multidomain last commit](https://img.shields.io/github/last-commit/biaw/multidomain?label=✨)](https://github.com/biaw/multidomain/commits)
+[![biaw/multidomain issues](https://img.shields.io/github/issues-raw/biaw/multidomain?label=❓)](https://github.com/biaw/multidomain/issues)
+[![biaw/multidomain pull requests](https://img.shields.io/github/issues-pr-raw/biaw/multidomain?label=💪)](https://github.com/biaw/multidomain/pulls)
+[![biaw/multidomain stars](https://img.shields.io/github/stars/biaw/multidomain?label=⭐)](https://github.com/biaw/multidomain/stargazers)
+[![biaw/multidomain build badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Build%20and%20publish?label=📦)](https://github.com/biaw/multidomain/actions/workflows/build-and-publish.yml)
+[![biaw/multidomain lint badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Linting?label=👌)](https://github.com/biaw/multidomain/actions/workflows/linting.yml)
+[![biaw/multidomain scan badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/multidomain/actions/workflows/analysis-and-scans.yml)
+[![biaw/multidomain test badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Testing?label=🔬)](https://github.com/biaw/multidomain/actions/workflows/testing.yml)
+
+* [`biaw/imagehost`](https://github.com/biaw/imagehost): A simple express file uploader used as an image hosting service.\
+[![biaw/imagehost last commit](https://img.shields.io/github/last-commit/biaw/imagehost?label=✨)](https://github.com/biaw/imagehost/commits)
+[![biaw/imagehost issues](https://img.shields.io/github/issues-raw/biaw/imagehost?label=❓)](https://github.com/biaw/imagehost/issues)
+[![biaw/imagehost pull requests](https://img.shields.io/github/issues-pr-raw/biaw/imagehost?label=💪)](https://github.com/biaw/imagehost/pulls)
+[![biaw/imagehost stars](https://img.shields.io/github/stars/biaw/imagehost?label=⭐)](https://github.com/biaw/imagehost/stargazers)
+[![biaw/imagehost build badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Build%20and%20publish?label=📦)](https://github.com/biaw/imagehost/actions/workflows/build-and-publish.yml)
+[![biaw/imagehost lint badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Linting?label=👌)](https://github.com/biaw/imagehost/actions/workflows/linting.yml)
+[![biaw/imagehost scan badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/imagehost/actions/workflows/analysis-and-scans.yml)
+[![biaw/imagehost test badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Testing?label=🔬)](https://github.com/biaw/imagehost/actions/workflows/testing.yml)
 
 ## FAQ
 
