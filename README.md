@@ -6,11 +6,16 @@
 
 # 👋 I'm Glenn
 
-a `17.9195`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.9196`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 2 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 3 commits to countr/countr
+✨ Pushed 7 commits to countr/countr
+✨ Pushed 5 commits to countr/countr
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
@@ -31,11 +36,6 @@ a `17.9195`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to countr/countr
 ✨ Pushed 4 commits to countr/countr
 ✨ Pushed 1 commit to biaw/test-area
-✨ Pushed 1 commit to biaw/test-area
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 1 commit to biaw/multidomain
-✨ Pushed 1 commit to biaw/imagehost
-✨ Pushed 2 commits to countr/countr
 ```
 
 ## Repositories I maintain
@@ -59,7 +59,7 @@ a `17.9195`-year old Node developer cruising through life with a terrible music 
 [![biaw/phone scan badge](https://img.shields.io/github/workflow/status/biaw/phone/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/phone/actions/workflows/analysis-and-scans.yml)
 [![biaw/phone test badge](https://img.shields.io/github/workflow/status/biaw/phone/Testing?label=🔬)](https://github.com/biaw/phone/actions/workflows/testing.yml)
 
-* [`biaw/test-area`](https://github.com/biaw/test-area): A Discord bot to easily create testing servers, without having to worry about writing in that 2FA code to delete it later.\
+* [`biaw/test-area`](https://github.com/biaw/test-area): A Discord bot to easily create testing servers, without having to worry about writing in that 2FA code to delete it later\
 [![biaw/test-area last commit](https://img.shields.io/github/last-commit/biaw/test-area?label=✨)](https://github.com/biaw/test-area/commits)
 [![biaw/test-area issues](https://img.shields.io/github/issues-raw/biaw/test-area?label=❓)](https://github.com/biaw/test-area/issues)
 [![biaw/test-area pull requests](https://img.shields.io/github/issues-pr-raw/biaw/test-area?label=💪)](https://github.com/biaw/test-area/pulls)
@@ -78,7 +78,7 @@ a `17.9195`-year old Node developer cruising through life with a terrible music 
 [![biaw/multidomain scan badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/multidomain/actions/workflows/analysis-and-scans.yml)
 [![biaw/multidomain test badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Testing?label=🔬)](https://github.com/biaw/multidomain/actions/workflows/testing.yml)
 
-* [`biaw/imagehost`](https://github.com/biaw/imagehost): A simple express file uploader used as an image hosting service.\
+* [`biaw/imagehost`](https://github.com/biaw/imagehost): A simple express file uploader used as an image hosting service\
 [![biaw/imagehost last commit](https://img.shields.io/github/last-commit/biaw/imagehost?label=✨)](https://github.com/biaw/imagehost/commits)
 [![biaw/imagehost issues](https://img.shields.io/github/issues-raw/biaw/imagehost?label=❓)](https://github.com/biaw/imagehost/issues)
 [![biaw/imagehost pull requests](https://img.shields.io/github/issues-pr-raw/biaw/imagehost?label=💪)](https://github.com/biaw/imagehost/pulls)
