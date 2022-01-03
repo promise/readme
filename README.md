@@ -6,11 +6,12 @@
 
 # 👋 I'm Glenn
 
-a `17.919`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `565474118277`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+⬆️ Pushed 1 commit to promise/promise
 ⬆️ Pushed 2 commits to biaw/test-area
 ⬆️ Pushed 2 commits to biaw/phone
 ⬆️ Pushed 2 commits to biaw/multidomain
@@ -35,12 +36,16 @@ a `17.919`-year old Node developer cruising through life with a terrible music t
 🗣 Commented on #17 in biaw/test-area
 ⬆️ Pushed 1 commit to biaw/test-area
 ⬆️ Pushed 2 commits to biaw/test-area
-⬆️ Pushed 1 commit to biaw/test-area
 ```
 
-## Countr Stats
+## Repositories I maintain
 
-[Countr](https://countr.xyz/) is an an advanced counting bot which can manage a counting channel in your Discord guild and it is currently in 84,000 servers and is ranked [#134 on Discord](https://dblstatistics.com/bot/467377486141980682). We have successfully counted 91,000 counts this week!
+* [`biaw/phone`](https://github.com/biaw/phone): A Discord application to call your cellphone through Twilio in case of emergencies\
+[![biaw/phone last commit](https://img.shields.io/github/last-commit/biaw/phone?label=📦)](https://github.com/biaw/phone/commits)
+[![biaw/phone issues](https://img.shields.io/github/issues-raw/biaw/phone?label=❗️)](https://github.com/biaw/phone/issues)
+[![biaw/phone pull requests](https://img.shields.io/github/issues-pulls-raw/biaw/phone?label=💪)](https://github.com/biaw/phone/pulls)
+[![biaw/phone stars](https://img.shields.io/github/stars/biaw/phone?label=⭐)](https://github.com/biaw/phone/stargazers)
+[![biaw/phone build badge](https://img.shields.io/github/workflow/status/biaw/phone/Test%20build)](https://github.com/biaw/phone/actions/workflows/build-test.yml)
 
 ## FAQ
 
