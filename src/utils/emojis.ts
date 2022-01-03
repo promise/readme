@@ -11,4 +11,5 @@ export default {
   test: "🔬",
   comment: "🗣",
   fork: "🍴",
+  review: "📝",
 };
