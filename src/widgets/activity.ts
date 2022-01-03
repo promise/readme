@@ -11,7 +11,7 @@ const eventList: Record<string, (event: Event & any) => string> = { // eslint-di
   IssuesEvent: (event: Event) => `${emojis.issue} ${capitalize(event.payload.action as string)} issue #${event.payload.issue?.number} in ${event.repo.name}`,
   PullRequestEvent: (event: Event & { payload: { pull_request: { merged_at?: string } }}) => `${event.payload.pull_request?.merged_at ? `${emojis.prMerged} Merged` : `${event.payload.action === "opened" ? emojis.pr : emojis.prRejected} ${capitalize(event.payload.action as string)}`} PR #${event.payload.issue?.number} in ${event.repo.name}`,
   ForkEvent: (event: Event & { payload: { forkee: { full_name: string; }}}) => `${emojis.fork} Forked ${event.payload.forkee.full_name} from ${event.repo.name}`,
-  PushEvent: (event: Event & { payload: { size: number; }}) => `⬆${emojis.push} Pushed ${event.payload.size} commit${event.payload.size > 1 ? "s" : ""} to ${event.repo.name}`,
+  PushEvent: (event: Event & { payload: { size: number; }}) => `${emojis.push} Pushed ${event.payload.size} commit${event.payload.size > 1 ? "s" : ""} to ${event.repo.name}`,
 };
 
 export async function activity(rows = 25) {
