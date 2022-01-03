@@ -6,11 +6,12 @@
 
 # 👋 I'm Glenn
 
-a `565474118277`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.919`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+⬆️ Pushed 2 commits to promise/promise
 ⬆️ Pushed 1 commit to promise/promise
 ⬆️ Pushed 2 commits to biaw/test-area
 ⬆️ Pushed 2 commits to biaw/phone
@@ -35,17 +36,16 @@ a `565474118277`-year old Node developer cruising through life with a terrible m
 ⬆️ Pushed 15 commits to biaw/test-area
 🗣 Commented on #17 in biaw/test-area
 ⬆️ Pushed 1 commit to biaw/test-area
-⬆️ Pushed 2 commits to biaw/test-area
 ```
 
 ## Repositories I maintain
 
 * [`biaw/phone`](https://github.com/biaw/phone): A Discord application to call your cellphone through Twilio in case of emergencies\
-[![biaw/phone last commit](https://img.shields.io/github/last-commit/biaw/phone?label=📦)](https://github.com/biaw/phone/commits)
+[![biaw/phone last commit](https://img.shields.io/github/last-commit/biaw/phone?label=⬆️)](https://github.com/biaw/phone/commits)
 [![biaw/phone issues](https://img.shields.io/github/issues-raw/biaw/phone?label=❗️)](https://github.com/biaw/phone/issues)
-[![biaw/phone pull requests](https://img.shields.io/github/issues-pulls-raw/biaw/phone?label=💪)](https://github.com/biaw/phone/pulls)
+[![biaw/phone pull requests](https://img.shields.io/github/issues-pr-raw/biaw/phone?label=💪)](https://github.com/biaw/phone/pulls)
 [![biaw/phone stars](https://img.shields.io/github/stars/biaw/phone?label=⭐)](https://github.com/biaw/phone/stargazers)
-[![biaw/phone build badge](https://img.shields.io/github/workflow/status/biaw/phone/Test%20build)](https://github.com/biaw/phone/actions/workflows/build-test.yml)
+[![biaw/phone build badge](https://img.shields.io/github/workflow/status/biaw/phone/Build%20and%20publish)](https://github.com/biaw/phone/actions/workflows/build-and-publish.yml)
 
 ## FAQ
 
