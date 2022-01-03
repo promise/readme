@@ -10,8 +10,8 @@ export default {
         repoBadges: ["lastCommit", "issues", "pulls", "stars"],
         workflowBadges: {
           build: {
-            name: "Test build",
-            file: "build-test.yml",
+            name: "Build and publish",
+            file: "build-and-publish.yml",
           },
         },
       },
