@@ -6,11 +6,12 @@
 
 # 👋 I'm Glenn
 
-a `17.919`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.9192`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 2 commits to promise/promise
 ✨ Pushed 2 commits to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 2 commits to promise/promise
@@ -35,7 +36,6 @@ a `17.919`-year old Node developer cruising through life with a terrible music t
 🗣 Commented on #5 in biaw/multidomain
 🗣 Commented on #6 in biaw/imagehost
 🗣 Commented on #6 in biaw/multidomain
-✨ Pushed 15 commits to biaw/test-area
 ```
 
 ## Repositories I maintain
