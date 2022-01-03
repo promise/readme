@@ -5,7 +5,7 @@ import { join } from "path";
 
 readFile(join(__dirname, "../src/template.md"), "utf8").then(async template => {
   const file = template
-    .replace(/<!--AGE-->/gm, `${Math.round((Date.now() - ageSinceEpoch) / yearInMs * 1000) / 1000}`)
+    .replace(/<!--AGE-->/gm, `${Math.round((Date.now() - ageSinceEpoch) / yearInMs * 10_000) / 10_000}`)
     .replace(/<!--ACTIVITY-->/gm, await activity())
     .replace(/<!--REPOSITORIES-->/gm, await repositories());
 
