@@ -7,7 +7,7 @@ export default {
   repos: {
     "biaw/phone": {
       badges: {
-        repoBadges: ["lastCommit", "issues", "pulls", "stars"],
+        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
           build: {
             name: "Build and publish",
@@ -30,7 +30,7 @@ export default {
     },
     "biaw/test-area": {
       badges: {
-        repoBadges: ["lastCommit", "issues", "pulls", "stars"],
+        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
           build: {
             name: "Build and publish",
@@ -49,7 +49,7 @@ export default {
     },
     "biaw/multidomain": {
       badges: {
-        repoBadges: ["lastCommit", "issues", "pulls", "stars"],
+        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
           build: {
             name: "Build and publish",
@@ -72,7 +72,7 @@ export default {
     },
     "biaw/imagehost": {
       badges: {
-        repoBadges: ["lastCommit", "issues", "pulls", "stars"],
+        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
           build: {
             name: "Build and publish",
@@ -95,7 +95,7 @@ export default {
     },
     "countr/countr": {
       badges: {
-        repoBadges: ["lastCommit", "issues", "pulls", "stars"],
+        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
           build: {
             name: "Test build",
