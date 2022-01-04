@@ -4,7 +4,7 @@
 [![discord:spotify](https://dev.discordprofiles.me/badge/spotify/110090225929191424)](https://dev.discordprofiles.me/openspotify/110090225929191424)
 [![discord:chat](https://img.shields.io/discord/449576301997588490)](https://i.promise.solutions/discord)
 
-# 👋 I'm Glenn
+# 👋 I'm <!--NAME-->
 
 a `<!--AGE-->`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
