@@ -38,11 +38,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          author_email: 'profile-automation@but-it-actually.works'
-          author_name: '🤖'
-          message: "Profile Automation"
-          branch: "master"
-          force: true
+        run:  |
+          git add -A
+          git commit -m 'profile automation'
+          git push
