@@ -39,6 +39,8 @@ jobs:
 
       - name: Commit & Push
         run:  |
+          git config --global user.name '🎉' 
+          git config --global user.email 'profile-automation@but-it-actually.works'
           git add -A
-          git commit -m 'profile automation'
+          git commit -m 'Profile automation'
           git push
