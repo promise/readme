@@ -6,7 +6,7 @@
 
 # 👋 I'm Glenn
 
-a `17.9206`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.9207`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
@@ -59,7 +59,7 @@ a `17.9206`-year old Node developer cruising through life with a terrible music 
 [![biaw/phone scan badge](https://img.shields.io/github/workflow/status/biaw/phone/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/phone/actions/workflows/analysis-and-scans.yml)
 [![biaw/phone test badge](https://img.shields.io/github/workflow/status/biaw/phone/Testing?label=🔬)](https://github.com/biaw/phone/actions/workflows/testing.yml)
 
-* [`biaw/test-area`](https://github.com/biaw/test-area): A Discord bot to easily create testing servers, without having to worry about writing in that 2FA code to delete it later\
+* [`biaw/test-area`](https://github.com/biaw/test-area): A Discord bot to easily create testing servers, without having to write in that 2FA code to delete it later\
 [![biaw/test-area last commit](https://img.shields.io/github/last-commit/biaw/test-area?label=✨)](https://github.com/biaw/test-area/commits)
 [![biaw/test-area issues](https://img.shields.io/github/issues-raw/biaw/test-area?label=❓)](https://github.com/biaw/test-area/issues)
 [![biaw/test-area pull requests](https://img.shields.io/github/issues-pr-raw/biaw/test-area?label=💪)](https://github.com/biaw/test-area/pulls)
