@@ -6,11 +6,16 @@
 
 # 👋 I'm Glenn
 
-a `17.9281`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.9282`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+🎨 Created promise/promise.github.io
+✨ Pushed 1 commit to promise/graveyard
+✨ Pushed 1 commit to biaw/multidomain
+✨ Pushed 1 commit to biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
@@ -29,12 +34,6 @@ a `17.9281`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
-✨ Pushed 2 commits to promise/promise
-✨ Pushed 1 commit to promise/promise
-✨ Pushed 2 commits to promise/promise
-✨ Pushed 2 commits to promise/promise
-✨ Pushed 2 commits to promise/promise
-✨ Pushed 1 commit to promise/promise
 ```
 
 ## Repositories I maintain
