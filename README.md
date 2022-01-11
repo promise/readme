@@ -6,11 +6,21 @@
 
 # 👋 I'm Glenn
 
-a `17.9408`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.9409`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+📝 Created review (approved) on PR #22 in biaw/multidomain
+📝 Created review (approved) on PR #21 in biaw/imagehost
+📝 Created review (approved) on PR #23 in biaw/multidomain
+📝 Created review (approved) on PR #22 in biaw/imagehost
+📝 Created review (dismissed) on PR #22 in biaw/imagehost
+📝 Created review (approved) on PR #28 in biaw/test-area
+📝 Created review (approved) on PR #24 in biaw/multidomain
+📝 Created review (approved) on PR #22 in biaw/imagehost
+📝 Created review (approved) on PR #20 in biaw/imagehost
+✨ Pushed 8 commits to countr/countr
 ✨ Pushed 3 commits to biaw/imagehost
 🎨 Created promise/promise.github.io
 ✨ Pushed 1 commit to promise/graveyard
@@ -24,16 +34,6 @@ a `17.9408`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to countr/countr
 ✅ Merged PR #157 in countr/countr
 🗣 Commented on #153 in countr/countr
-✨ Pushed 1 commit to promise/promise
-✨ Pushed 1 commit to promise/promise
-✨ Pushed 1 commit to promise/promise
-✨ Pushed 2 commits to countr/countr
-✨ Pushed 1 commit to countr/countr
-✨ Pushed 3 commits to countr/countr
-✨ Pushed 7 commits to countr/countr
-✨ Pushed 5 commits to countr/countr
-✨ Pushed 2 commits to countr/countr
-✨ Pushed 2 commits to countr/countr
 ```
 
 ## Repositories I maintain
