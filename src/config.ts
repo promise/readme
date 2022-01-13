@@ -98,8 +98,8 @@ export default {
         repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
           build: {
-            name: "Test build",
-            file: "build-test.yml",
+            name: "Docker Compose",
+            file: "docker-test.yml",
           },
           lint: {
             name: "Linting",
@@ -108,6 +108,10 @@ export default {
           scan: {
             name: "Analysis and Scans",
             file: "analysis-and-scans.yml",
+          },
+          test: {
+            name: "Testing",
+            file: "testing.yml",
           },
         },
       },
