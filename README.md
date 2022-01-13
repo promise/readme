@@ -6,11 +6,15 @@
 
 # 👋 I'm Glenn
 
-a `17.9469`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.947`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 2 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 17 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
 ✅ Merged PR #163 in countr/countr
 📝 Created review (approved) on PR #29 in biaw/test-area
@@ -30,10 +34,6 @@ a `17.9469`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to biaw/multidomain
 ✨ Pushed 1 commit to biaw/imagehost
 ✨ Pushed 1 commit to biaw/imagehost
-✨ Pushed 1 commit to promise/promise
-✨ Pushed 1 commit to promise/promise
-✨ Pushed 1 commit to promise/promise
-🗣 Commented on #158 in countr/countr
 ```
 
 ## Repositories I maintain
@@ -43,9 +43,10 @@ a `17.9469`-year old Node developer cruising through life with a terrible music 
 [![countr/countr last commit](https://img.shields.io/github/last-commit/countr/countr?label=✨)](https://github.com/countr/countr/commits)
 [![countr/countr issues](https://img.shields.io/github/issues-raw/countr/countr?label=❓)](https://github.com/countr/countr/issues)
 [![countr/countr pull requests](https://img.shields.io/github/issues-pr-raw/countr/countr?label=💪)](https://github.com/countr/countr/pulls)
-[![countr/countr build badge](https://img.shields.io/github/workflow/status/countr/countr/Test%20build?label=📦)](https://github.com/countr/countr/actions/workflows/build-test.yml)
+[![countr/countr build badge](https://img.shields.io/github/workflow/status/countr/countr/Docker%20Compose?label=📦)](https://github.com/countr/countr/actions/workflows/docker-test.yml)
 [![countr/countr lint badge](https://img.shields.io/github/workflow/status/countr/countr/Linting?label=👌)](https://github.com/countr/countr/actions/workflows/linting.yml)
 [![countr/countr scan badge](https://img.shields.io/github/workflow/status/countr/countr/Analysis%20and%20Scans?label=🔎)](https://github.com/countr/countr/actions/workflows/analysis-and-scans.yml)
+[![countr/countr test badge](https://img.shields.io/github/workflow/status/countr/countr/Testing?label=🔬)](https://github.com/countr/countr/actions/workflows/testing.yml)
 
 * [`biaw/phone`](https://github.com/biaw/phone): A Discord application to call your cellphone through Twilio in case of emergencies\
 [![biaw/phone stars](https://img.shields.io/github/stars/biaw/phone?label=⭐)](https://github.com/biaw/phone/stargazers)
