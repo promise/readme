@@ -6,11 +6,12 @@
 
 # 👋 I'm Glenn
 
-a `17.9589`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.959`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+📝 Created review (approved) on PR #35 in biaw/test-area
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 2 commits to promise/promise
 ✨ Pushed 1 commit to promise/promise
@@ -33,7 +34,6 @@ a `17.9589`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to countr/countr
 ✅ Merged PR #164 in countr/countr
 ✨ Pushed 1 commit to promise/promise
-✨ Pushed 2 commits to countr/countr
 ```
 
 ## Repositories I maintain
