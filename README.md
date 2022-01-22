@@ -6,11 +6,13 @@
 
 # 👋 I'm Glenn
 
-a `17.9691`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `17.9692`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to countr/website
+💪 Opened PR #1 in countr/website
 ✨ Pushed 1 commit to countr/website
 ✨ Pushed 1 commit to countr/website
 ✨ Pushed 1 commit to countr/website
@@ -33,8 +35,6 @@ a `17.9691`-year old Node developer cruising through life with a terrible music 
 🗣 Commented on #170 in countr/countr
 ✨ Pushed 1 commit to countr/countr
 ✨ Pushed 2 commits to countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #167 in countr/countr
 ```
 
 ## Repositories I maintain
