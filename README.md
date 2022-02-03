@@ -6,11 +6,12 @@
 
 # 👋 I'm Glenn
 
-a `18.0026`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.0027`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+🗣 Commented on #1 in yonilerner/yonebot
 📝 Created review (approved) on PR #50 in biaw/test-area
 📝 Created review (approved) on PR #54 in biaw/phone
 📝 Created review (approved) on PR #46 in biaw/test-area
@@ -33,7 +34,6 @@ a `18.0026`-year old Node developer cruising through life with a terrible music 
 📝 Created review (approved) on PR #35 in biaw/test-area
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 2 commits to promise/promise
-✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ```
 
