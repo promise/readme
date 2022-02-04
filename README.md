@@ -6,7 +6,7 @@
 
 # 👋 I'm Glenn
 
-a `18.0067`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.0068`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
