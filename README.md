@@ -6,11 +6,14 @@
 
 # 👋 I'm Glenn
 
-a `18.0589`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.059`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+📝 Created review (approved) on PR #57 in biaw/phone
+📝 Created review (approved) on PR #46 in biaw/multidomain
+📝 Created review (approved) on PR #45 in biaw/imagehost
 💪 Opened PR #1 in ItsRauf/datetimecord
 ✨ Pushed 2 commits to promise/datetimecord
 🍴 Forked promise/datetimecord from ItsRauf/datetimecord
@@ -32,9 +35,6 @@ a `18.0589`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to countr/website
 ✨ Pushed 1 commit to countr/countr
 ✨ Pushed 8 commits to countr/countr
-🗣 Commented on #111 in countr/countr
-🗣 Commented on #175 in countr/countr
-📝 Created review (approved) on PR #35 in biaw/test-area
 ```
 
 ## Repositories I maintain
