@@ -6,36 +6,30 @@
 
 # 👋 I'm Glenn
 
-a `18.0645`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.0646`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
-✨ Pushed 2 commits to countr/countr
+✨ Pushed 4 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
-🗣 Commented on #62 in biaw/imagehost
-✨ Pushed 2 commits to biaw/imagehost
-🗣 Commented on #62 in biaw/multidomain
-✨ Pushed 2 commits to biaw/multidomain
-📝 Created review (approved) on PR #73 in biaw/phone
-🗣 Commented on #74 in biaw/phone
-✨ Pushed 3 commits to biaw/phone
-✨ Pushed 2 commits to biaw/phone
-📝 Created review (approved) on PR #60 in biaw/test-area
-🗣 Commented on #61 in biaw/test-area
-✨ Pushed 3 commits to biaw/test-area
-✨ Pushed 2 commits to biaw/test-area
-✨ Pushed 2 commits to biaw/test-area
-📝 Created review (approved) on PR #57 in biaw/phone
-📝 Created review (approved) on PR #46 in biaw/multidomain
-📝 Created review (approved) on PR #45 in biaw/imagehost
-💪 Opened PR #1 in ItsRauf/datetimecord
-✨ Pushed 2 commits to promise/datetimecord
-🍴 Forked promise/datetimecord from ItsRauf/datetimecord
-🗣 Commented on #1 in yonilerner/yonebot
-📝 Created review (approved) on PR #50 in biaw/test-area
-📝 Created review (approved) on PR #54 in biaw/phone
-📝 Created review (approved) on PR #46 in biaw/test-area
+✅ Merged PR #190 in countr/countr
+✨ Pushed 3 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #189 in countr/countr
+✨ Pushed 4 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #188 in countr/countr
+✨ Pushed 5 commits to countr/countr
+✨ Pushed 8 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #187 in countr/countr
+✨ Pushed 6 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #176 in countr/countr
+🗣 Commented on #3 in countr/website
+✅ Merged PR #2 in countr/website
+✨ Pushed 2 commits to countr/website
 ```
 
 ## Repositories I maintain
