@@ -6,30 +6,30 @@
 
 # 👋 I'm Glenn
 
-a `18.0646`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.0647`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #196 in countr/countr
 ✨ Pushed 4 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #190 in countr/countr
+✅ Merged PR #197 in countr/countr
+✨ Pushed 2 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #195 in countr/countr
 ✨ Pushed 3 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #189 in countr/countr
+✅ Merged PR #194 in countr/countr
+✨ Pushed 3 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #193 in countr/countr
+✨ Pushed 3 commits to countr/countr
+✅ Merged PR #192 in countr/countr
+✨ Pushed 1 commit to countr/countr
 ✨ Pushed 4 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #188 in countr/countr
-✨ Pushed 5 commits to countr/countr
-✨ Pushed 8 commits to countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #187 in countr/countr
-✨ Pushed 6 commits to countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #176 in countr/countr
-🗣 Commented on #3 in countr/website
-✅ Merged PR #2 in countr/website
-✨ Pushed 2 commits to countr/website
 ```
 
 ## Repositories I maintain
