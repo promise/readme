@@ -6,7 +6,7 @@
 
 # 👋 I'm Glenn
 
-a `18.0692`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.0693`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
@@ -30,7 +30,6 @@ a `18.0692`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #196 in countr/countr
 ✨ Pushed 4 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #197 in countr/countr
 ```
 
 ## Repositories I maintain
