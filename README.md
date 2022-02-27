@@ -6,11 +6,15 @@
 
 # 👋 I'm Glenn
 
-a `18.0693`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.0694`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to biaw/kai-bot
+✨ Pushed 1 commit to biaw/kai-bot
+✨ Pushed 1 commit to biaw/kai-bot
+✨ Pushed 1 commit to biaw/kai-bot
 ✨ Pushed 1 commit to biaw/.github
 ✨ Pushed 1 commit to countr/website
 🗣 Commented on #5 in countr/website
@@ -26,9 +30,6 @@ a `18.0693`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
 ✨ Pushed 11 commits to countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #196 in countr/countr
-✨ Pushed 4 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
 ```
 
