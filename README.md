@@ -6,29 +6,31 @@
 
 # 👋 I'm Glenn
 
-a `18.0986`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.0987`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to biaw/phone
+✨ Pushed 2 commits to biaw/phone
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #203 in countr/countr
-✨ Pushed 2 commits to biaw/kai-bot
+✅ Merged PR #205 in countr/countr
+❌ Closed PR #9 in countr/website
+✨ Pushed 3 commits to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #204 in countr/countr
 ✨ Pushed 2 commits to countr/website
-✅ Merged PR #13 in countr/website
-💪 Opened PR #13 in countr/website
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #201 in countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #199 in countr/countr
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #200 in countr/countr
-✨ Pushed 1 commit to biaw/phone
-✅ Merged PR #77 in biaw/phone
-📝 Created review (approved) on PR #77 in biaw/phone
-📝 Created review (approved) on PR #63 in biaw/test-area
-📝 Created review (approved) on PR #64 in biaw/multidomain
+✨ Pushed 6 commits to countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #14 in countr/website
+✨ Pushed 3 commits to countr/website
+✅ Merged PR #15 in countr/website
+✨ Pushed 1 commit to countr/website
+✨ Pushed 4 commits to countr/website
+✨ Pushed 1 commit to countr/website
+✨ Pushed 1 commit to countr/website
 ```
 
 ## Repositories I maintain
