@@ -6,11 +6,22 @@
 
 # 👋 I'm Glenn
 
-a `18.1012`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.1014`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to biaw/imagehost
+✨ Pushed 1 commit to biaw/multidomain
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 1 commit to biaw/test-area
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #17 in countr/website
+✨ Pushed 1 commit to countr/website
+✨ Pushed 1 commit to countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #16 in countr/website
+✨ Pushed 1 commit to countr/website
 🗣 Commented on #9 in biaw/phone
 ✨ Pushed 1 commit to biaw/phone
 ✅ Merged PR #78 in biaw/phone
@@ -21,17 +32,6 @@ a `18.1012`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 5 commits to biaw/phone
 ✨ Pushed 2 commits to biaw/imagehost
 ✨ Pushed 2 commits to biaw/multidomain
-✨ Pushed 1 commit to biaw/test-area
-✨ Pushed 1 commit to biaw/test-area
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 2 commits to biaw/phone
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #205 in countr/countr
-❌ Closed PR #9 in countr/website
-✨ Pushed 3 commits to countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #204 in countr/countr
 ```
 
 ## Repositories I maintain
