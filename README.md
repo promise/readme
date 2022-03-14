@@ -13,6 +13,9 @@ a `18.1093`-year old Node developer cruising through life with a terrible music 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to biaw/test-area
+✅ Merged PR #65 in biaw/test-area
+📝 Created review (approved) on PR #65 in biaw/test-area
 ✨ Pushed 3 commits to countr/countr
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to biaw/imagehost
@@ -31,9 +34,6 @@ a `18.1093`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #78 in biaw/phone
 📝 Created review (approved) on PR #78 in biaw/phone
 ✨ Pushed 6 commits to biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✅ Merged PR #79 in biaw/phone
-✨ Pushed 5 commits to biaw/phone
 ```
 
 ## Repositories I maintain
