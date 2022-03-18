@@ -6,13 +6,22 @@
 
 # 👋 I'm Glenn
 
-a `18.1209`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.121`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+💪 Opened PR #66 in biaw/imagehost
+✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to biaw/phone
+💪 Opened PR #81 in biaw/phone
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #210 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 1 commit to countr/countr
+💪 Opened PR #210 in countr/countr
 ✨ Pushed 1 commit to biaw/phone
 ✅ Merged PR #80 in biaw/phone
 ✨ Pushed 1 commit to countr/countr
@@ -21,19 +30,6 @@ a `18.1209`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #65 in biaw/imagehost
 📝 Created review (approved) on PR #65 in biaw/imagehost
 ✨ Pushed 1 commit to biaw/multidomain
-✅ Merged PR #65 in biaw/multidomain
-📝 Created review (approved) on PR #65 in biaw/multidomain
-📝 Created review (approved) on PR #80 in biaw/phone
-✨ Pushed 2 commits to biaw/phone
-📝 Created review (approved) on PR #207 in countr/countr
-✨ Pushed 4 commits to countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #209 in countr/countr
-❓ Closed issue #143 in countr/countr
-📝 Created review (approved) on PR #209 in countr/countr
-📝 Created review (changes_requested) on PR #209 in countr/countr
-📝 Created review (changes_requested) on PR #209 in countr/countr
-✨ Pushed 1 commit to countr/countr
 ```
 
 ## Repositories I maintain
