@@ -6,13 +6,23 @@
 
 # 👋 I'm Glenn
 
-a `18.1358`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.1359`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #25 in countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #24 in countr/website
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #214 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #212 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #211 in countr/countr
 ✨ Pushed 1 commit to biaw/imagehost
 ✅ Merged PR #67 in biaw/imagehost
 ✨ Pushed 1 commit to biaw/multidomain
@@ -20,15 +30,6 @@ a `18.1358`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #23 in countr/website
 ✨ Pushed 1 commit to countr/website
-✅ Merged PR #22 in countr/website
-💪 Opened PR #66 in biaw/multidomain
-💪 Opened PR #66 in biaw/test-area
-💪 Opened PR #66 in biaw/imagehost
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 1 commit to biaw/phone
-💪 Opened PR #81 in biaw/phone
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #210 in countr/countr
 ```
 
 ## Repositories I maintain
