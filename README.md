@@ -6,13 +6,21 @@
 
 # 👋 I'm Glenn
 
-a `18.143`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.1431`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to project-blurple/blurple-hammer
+✅ Merged PR #35 in project-blurple/blurple-hammer
+💪 Opened PR #35 in project-blurple/blurple-hammer
+✨ Pushed 1 commit to project-blurple/blurple-hammer
+✅ Merged PR #34 in project-blurple/blurple-hammer
+🗣 Commented on #34 in project-blurple/blurple-hammer
+✨ Pushed 1 commit to project-blurple/blurple-hammer
+✅ Merged PR #33 in project-blurple/blurple-hammer
 ❌ Closed PR #213 in countr/countr
 ✨ Pushed 5 commits to countr/countr
 ✨ Pushed 4 commits to countr/countr
@@ -21,15 +29,6 @@ a `18.143`-year old Node developer cruising through life with a terrible music t
 ✨ Pushed 1 commit to countr/website
 ✨ Pushed 1 commit to countr/countr
 ✅ Merged PR #216 in countr/countr
-✨ Pushed 1 commit to biaw/phone
-✅ Merged PR #84 in biaw/phone
-✅ Merged PR #83 in biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 5 commits to countr/countr
-✅ Merged PR #68 in biaw/imagehost
-✨ Pushed 1 commit to biaw/imagehost
-✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #69 in biaw/imagehost
 ```
 
 ## Repositories I maintain
