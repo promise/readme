@@ -6,13 +6,23 @@
 
 # 👋 I'm Glenn
 
-a `18.1485`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.1486`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 2 commits to countr/website
+❌ Closed PR #26 in countr/website
+✨ Pushed 4 commits to countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #30 in countr/website
+✨ Pushed 3 commits to countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #68 in biaw/test-area
+✨ Pushed 1 commit to biaw/test-area
+📝 Created review (approved) on PR #68 in biaw/test-area
 ✨ Pushed 1 commit to project-blurple/blurple-hammer
 ✨ Pushed 5 commits to project-blurple/blurple-hammer
 ✨ Pushed 2 commits to countr/countr
@@ -23,14 +33,6 @@ a `18.1485`-year old Node developer cruising through life with a terrible music 
 💪 Opened PR #35 in project-blurple/blurple-hammer
 ✨ Pushed 1 commit to project-blurple/blurple-hammer
 ✅ Merged PR #34 in project-blurple/blurple-hammer
-🗣 Commented on #34 in project-blurple/blurple-hammer
-✨ Pushed 1 commit to project-blurple/blurple-hammer
-✅ Merged PR #33 in project-blurple/blurple-hammer
-❌ Closed PR #213 in countr/countr
-✨ Pushed 5 commits to countr/countr
-✨ Pushed 4 commits to countr/countr
-✨ Pushed 1 commit to project-blurple/blurple-hammer
-✅ Merged PR #27 in countr/website
 ```
 
 ## Repositories I maintain
