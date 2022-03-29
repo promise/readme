@@ -6,13 +6,15 @@
 
 # 👋 I'm Glenn
 
-a `18.1522`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.1523`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #219 in countr/countr
 ✨ Pushed 1 commit to countr/countr
 ✅ Merged PR #218 in countr/countr
 🎨 Created promise/eslint-config
@@ -31,8 +33,6 @@ a `18.1522`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #30 in countr/website
 ✨ Pushed 3 commits to countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #68 in biaw/test-area
 ```
 
 ## Repositories I maintain
