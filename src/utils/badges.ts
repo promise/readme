@@ -1,7 +1,10 @@
-import { Workflow } from "../types";
+import type { Workflow } from "../types";
 import emojis from "./emojis";
 
-export default (repo: string) => ({
+export default (repo: string): {
+  repoBadges: Record<string, () => string>;
+  workflowBadges: Record<string, (workflow: Workflow) => string>;
+} => ({
   repoBadges: {
     lastCommit: () => `[![${repo} last commit](https://img.shields.io/github/last-commit/${repo}?label=${emojis.push})](https://github.com/${repo}/commits)`,
     issues: () => `[![${repo} issues](https://img.shields.io/github/issues-raw/${repo}?label=${emojis.issue})](https://github.com/${repo}/issues)`,
@@ -14,7 +17,4 @@ export default (repo: string) => ({
     scan: workflow => `[![${repo} scan badge](https://img.shields.io/github/workflow/status/${repo}/${encodeURIComponent(workflow.name)}?label=${emojis.scan})](https://github.com/${repo}/actions/workflows/${workflow.file})`,
     test: workflow => `[![${repo} test badge](https://img.shields.io/github/workflow/status/${repo}/${encodeURIComponent(workflow.name)}?label=${emojis.test})](https://github.com/${repo}/actions/workflows/${workflow.file})`,
   },
-}) as {
-  repoBadges: Record<string, () => string>;
-  workflowBadges: Record<string, (workflow: Workflow) => string>;
-};
+});

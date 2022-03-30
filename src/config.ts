@@ -1,4 +1,4 @@
-import { Config } from "./types";
+import type { Config } from "./types";
 
 if (!process.env.GITHUB_TOKEN) throw new Error("GITHUB_TOKEN not found");
 
