@@ -6,33 +6,29 @@
 
 # 👋 I'm Glenn
 
-a `18.1533`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.1534`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #219 in countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #218 in countr/countr
-🎨 Created promise/eslint-config
-✨ Pushed 1 commit to project-blurple/bot-icon-sync
-✨ Pushed 1 commit to project-blurple/bot-icon-sync
-🗣 Commented on #1 in project-blurple/bot-icon-sync
-✨ Pushed 2 commits to project-blurple/bot-icon-sync
-✨ Pushed 2 commits to project-blurple/bot-icon-sync
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #31 in countr/website
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #217 in countr/countr
-✨ Pushed 2 commits to countr/website
-❌ Closed PR #26 in countr/website
-✨ Pushed 4 commits to countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #30 in countr/website
-✨ Pushed 3 commits to countr/website
+✨ Pushed 1 commit to biaw/phone
+✅ Merged PR #86 in biaw/phone
+✨ Pushed 1 commit to biaw/multidomain
+✅ Merged PR #71 in biaw/multidomain
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #71 in biaw/imagehost
+✨ Pushed 1 commit to biaw/phone
+✅ Merged PR #85 in biaw/phone
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #70 in biaw/imagehost
+✨ Pushed 1 commit to biaw/multidomain
+✅ Merged PR #70 in biaw/multidomain
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #66 in biaw/imagehost
+✅ Merged PR #66 in biaw/test-area
+✨ Pushed 1 commit to biaw/phone
 ```
 
 ## Repositories I maintain
