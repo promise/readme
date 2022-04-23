@@ -6,13 +6,14 @@
 
 # 👋 I'm Glenn
 
-a `18.2198`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2199`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
@@ -32,7 +33,6 @@ a `18.2198`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to biaw/imagehost
 ✅ Merged PR #72 in biaw/imagehost
 ✨ Pushed 1 commit to biaw/multidomain
-✅ Merged PR #77 in biaw/multidomain
 ```
 
 ## Repositories I maintain
@@ -46,6 +46,15 @@ a `18.2198`-year old Node developer cruising through life with a terrible music 
 [![countr/countr lint badge](https://img.shields.io/github/workflow/status/countr/countr/Linting?label=👌)](https://github.com/countr/countr/actions/workflows/linting.yml)
 [![countr/countr scan badge](https://img.shields.io/github/workflow/status/countr/countr/Analysis%20and%20Scans?label=🔎)](https://github.com/countr/countr/actions/workflows/analysis-and-scans.yml)
 [![countr/countr test badge](https://img.shields.io/github/workflow/status/countr/countr/Testing?label=🔬)](https://github.com/countr/countr/actions/workflows/testing.yml)
+
+* [`project-blurple/blurple-hammer`](https://github.com/project-blurple/blurple-hammer): The Blurple Hammer bot for extra moderation tools and link scanning.\
+[![project-blurple/blurple-hammer stars](https://img.shields.io/github/stars/project-blurple/blurple-hammer?label=⭐)](https://github.com/project-blurple/blurple-hammer/stargazers)
+[![project-blurple/blurple-hammer last commit](https://img.shields.io/github/last-commit/project-blurple/blurple-hammer?label=✨)](https://github.com/project-blurple/blurple-hammer/commits)
+[![project-blurple/blurple-hammer issues](https://img.shields.io/github/issues-raw/project-blurple/blurple-hammer?label=❓)](https://github.com/project-blurple/blurple-hammer/issues)
+[![project-blurple/blurple-hammer pull requests](https://img.shields.io/github/issues-pr-raw/project-blurple/blurple-hammer?label=💪)](https://github.com/project-blurple/blurple-hammer/pulls)
+[![project-blurple/blurple-hammer build badge](https://img.shields.io/github/workflow/status/project-blurple/blurple-hammer/Docker%20Compose?label=📦)](https://github.com/project-blurple/blurple-hammer/actions/workflows/docker-test.yml)
+[![project-blurple/blurple-hammer lint badge](https://img.shields.io/github/workflow/status/project-blurple/blurple-hammer/Linting?label=👌)](https://github.com/project-blurple/blurple-hammer/actions/workflows/linting.yml)
+[![project-blurple/blurple-hammer scan badge](https://img.shields.io/github/workflow/status/project-blurple/blurple-hammer/Analysis%20and%20Scans?label=🔎)](https://github.com/project-blurple/blurple-hammer/actions/workflows/analysis-and-scans.yml)
 
 * [`biaw/phone`](https://github.com/biaw/phone): A Discord application to call your cellphone through Twilio in case of emergencies\
 [![biaw/phone stars](https://img.shields.io/github/stars/biaw/phone?label=⭐)](https://github.com/biaw/phone/stargazers)
@@ -85,6 +94,14 @@ a `18.2198`-year old Node developer cruising through life with a terrible music 
 [![biaw/imagehost lint badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Linting?label=👌)](https://github.com/biaw/imagehost/actions/workflows/linting.yml)
 [![biaw/imagehost scan badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/imagehost/actions/workflows/analysis-and-scans.yml)
 [![biaw/imagehost test badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Testing?label=🔬)](https://github.com/biaw/imagehost/actions/workflows/testing.yml)
+
+* [`promise/promise`](https://github.com/promise/promise): GitHub profile readme\
+[![promise/promise stars](https://img.shields.io/github/stars/promise/promise?label=⭐)](https://github.com/promise/promise/stargazers)
+[![promise/promise last commit](https://img.shields.io/github/last-commit/promise/promise?label=✨)](https://github.com/promise/promise/commits)
+[![promise/promise issues](https://img.shields.io/github/issues-raw/promise/promise?label=❓)](https://github.com/promise/promise/issues)
+[![promise/promise pull requests](https://img.shields.io/github/issues-pr-raw/promise/promise?label=💪)](https://github.com/promise/promise/pulls)
+[![promise/promise lint badge](https://img.shields.io/github/workflow/status/promise/promise/Linting?label=👌)](https://github.com/promise/promise/actions/workflows/linting.yml)
+[![promise/promise test badge](https://img.shields.io/github/workflow/status/promise/promise/Testing?label=🔬)](https://github.com/promise/promise/actions/workflows/testing.yml)
 
 ## FAQ
 
