@@ -39,5 +39,5 @@ jobs:
           git config --global user.name "​"
           git config --global user.email "gh-actions@not-tech.support"
           git add README.md
-          git commit -m "Update README"
-          git push --force
+          git commit -m "Update README" || true
+          git push || true
