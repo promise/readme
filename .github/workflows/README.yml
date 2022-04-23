@@ -37,7 +37,7 @@ jobs:
       - name: Commit README and push
         run: |
           git config --global user.name "​"
-          git config --global user.email "abuse@not-tech.support"
+          git config --global user.email "gh-actions@not-tech.support"
           git add README.md
           git commit -m "Update README"
           git push

@@ -9,22 +9,10 @@ export default {
       badges: {
         repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
-          build: {
-            name: "Build and publish",
-            file: "build-and-publish.yml",
-          },
-          lint: {
-            name: "Linting",
-            file: "linting.yml",
-          },
-          scan: {
-            name: "Analysis and Scans",
-            file: "analysis-and-scans.yml",
-          },
-          test: {
-            name: "Testing",
-            file: "testing.yml",
-          },
+          build: { name: "Build and publish", file: "build-and-publish.yml" },
+          lint: { name: "Linting", file: "linting.yml" },
+          scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
+          test: { name: "Testing", file: "testing.yml" },
         },
       },
     },
@@ -32,18 +20,9 @@ export default {
       badges: {
         repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
-          build: {
-            name: "Build and publish",
-            file: "build-and-publish.yml",
-          },
-          lint: {
-            name: "Linting",
-            file: "linting.yml",
-          },
-          scan: {
-            name: "Analysis and Scans",
-            file: "analysis-and-scans.yml",
-          },
+          build: { name: "Build and publish", file: "build-and-publish.yml" },
+          lint: { name: "Linting", file: "linting.yml" },
+          scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
         },
       },
     },
@@ -51,22 +30,10 @@ export default {
       badges: {
         repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
-          build: {
-            name: "Build and publish",
-            file: "build-and-publish.yml",
-          },
-          lint: {
-            name: "Linting",
-            file: "linting.yml",
-          },
-          scan: {
-            name: "Analysis and Scans",
-            file: "analysis-and-scans.yml",
-          },
-          test: {
-            name: "Testing",
-            file: "testing.yml",
-          },
+          build: { name: "Build and publish", file: "build-and-publish.yml" },
+          lint: { name: "Linting", file: "linting.yml" },
+          scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
+          test: { name: "Testing", file: "testing.yml" },
         },
       },
     },
@@ -74,22 +41,10 @@ export default {
       badges: {
         repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
-          build: {
-            name: "Build and publish",
-            file: "build-and-publish.yml",
-          },
-          lint: {
-            name: "Linting",
-            file: "linting.yml",
-          },
-          scan: {
-            name: "Analysis and Scans",
-            file: "analysis-and-scans.yml",
-          },
-          test: {
-            name: "Testing",
-            file: "testing.yml",
-          },
+          build: { name: "Build and publish", file: "build-and-publish.yml" },
+          lint: { name: "Linting", file: "linting.yml" },
+          scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
+          test: { name: "Testing", file: "testing.yml" },
         },
       },
     },
@@ -97,22 +52,10 @@ export default {
       badges: {
         repoBadges: ["stars", "lastCommit", "issues", "pulls"],
         workflowBadges: {
-          build: {
-            name: "Docker Compose",
-            file: "docker-test.yml",
-          },
-          lint: {
-            name: "Linting",
-            file: "linting.yml",
-          },
-          scan: {
-            name: "Analysis and Scans",
-            file: "analysis-and-scans.yml",
-          },
-          test: {
-            name: "Testing",
-            file: "testing.yml",
-          },
+          build: { name: "Docker Compose", file: "docker-test.yml" },
+          lint: { name: "Linting", file: "linting.yml" },
+          scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
+          test: { name: "Testing", file: "testing.yml" },
         },
       },
     },

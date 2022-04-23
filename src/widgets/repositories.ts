@@ -1,3 +1,4 @@
+import type { WorkflowBadgeType } from "../utils/badges";
 import config from "../config";
 import getBadges from "../utils/badges";
 import { octokit } from "../utils/github";
@@ -17,7 +18,7 @@ export async function repositories(): Promise<string> {
     if (repoBadges) badgeList.push(...repoBadges.map(badge => badges.repoBadges[badge]()));
 
     const workflowBadges = config.repos[repo.full_name].badges?.workflowBadges;
-    if (workflowBadges) badgeList.push(...Object.entries(workflowBadges).map(([name, workflow]) => badges.workflowBadges[name](workflow)));
+    if (workflowBadges) badgeList.push(...Object.entries(workflowBadges).map(([name, workflow]) => badges.workflowBadges[name as WorkflowBadgeType](workflow)));
 
     return `* [\`${repo.full_name}\`](${repo.html_url}): ${repo.description ?? "*No description available*"}\\\n${badgeList.join("\n")}`;
   }).join("\n\n");

@@ -1,13 +1,16 @@
 import type { Workflow } from "../types";
 import emojis from "./emojis";
 
+export type RepoBadgeType = "issues" | "lastCommit" | "pulls" | "stars";
+export type WorkflowBadgeType = "build" | "lint" | "scan" | "test";
+
 export default (repo: string): {
-  repoBadges: Record<string, () => string>;
-  workflowBadges: Record<string, (workflow: Workflow) => string>;
+  repoBadges: Record<RepoBadgeType, () => string>;
+  workflowBadges: Record<WorkflowBadgeType, (workflow: Workflow) => string>;
 } => ({
   repoBadges: {
-    lastCommit: () => `[![${repo} last commit](https://img.shields.io/github/last-commit/${repo}?label=${emojis.push})](https://github.com/${repo}/commits)`,
     issues: () => `[![${repo} issues](https://img.shields.io/github/issues-raw/${repo}?label=${emojis.issue})](https://github.com/${repo}/issues)`,
+    lastCommit: () => `[![${repo} last commit](https://img.shields.io/github/last-commit/${repo}?label=${emojis.push})](https://github.com/${repo}/commits)`,
     pulls: () => `[![${repo} pull requests](https://img.shields.io/github/issues-pr-raw/${repo}?label=${emojis.pr})](https://github.com/${repo}/pulls)`,
     stars: () => `[![${repo} stars](https://img.shields.io/github/stars/${repo}?label=${emojis.star})](https://github.com/${repo}/stargazers)`,
   },
