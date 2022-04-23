@@ -69,14 +69,5 @@ export default {
         },
       },
     },
-    "promise/promise": {
-      badges: {
-        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
-        workflowBadges: {
-          lint: { name: "Linting", file: "linting.yml" },
-          test: { name: "Testing", file: "testing.yml" },
-        },
-      },
-    },
   },
 } as Config;
