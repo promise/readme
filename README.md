@@ -6,13 +6,26 @@
 
 # 👋 I'm Glenn
 
-a `18.2194`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2196`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to biaw/phone
+✅ Merged PR #90 in biaw/phone
+✨ Pushed 4 commits to biaw/phone
+📝 Created review (approved) on PR #88 in biaw/phone
+📝 Created review (approved) on PR #89 in biaw/phone
+📝 Created review (approved) on PR #90 in biaw/phone
+✨ Pushed 1 commit to biaw/phone
+✅ Merged PR #91 in biaw/phone
+📝 Created review (approved) on PR #91 in biaw/phone
+✨ Pushed 1 commit to countr/countr
+❓ Closed issue #229 in countr/countr
+✅ Merged PR #230 in countr/countr
+✨ Pushed 6 commits to wrac4242/countr
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #40 in countr/website
 ✨ Pushed 1 commit to countr/countr
@@ -20,16 +33,6 @@ a `18.2194`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #39 in countr/website
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #234 in countr/countr
-✨ Pushed 1 commit to promise/eslint-config
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #233 in countr/countr
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #37 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #38 in countr/website
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #232 in countr/countr
 ```
 
 ## Repositories I maintain
