@@ -40,4 +40,4 @@ jobs:
           git config --global user.email "gh-actions@not-tech.support"
           git add README.md
           git commit -m "Update README"
-          git push
+          git push --force
