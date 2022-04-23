@@ -19,6 +19,7 @@ a `18.2199`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
+✨ Pushed 1 commit to promise/promise
 ✨ Pushed 2 commits to promise/promise
 ✨ Pushed 1 commit to promise/promise
 🗣 Commented on #2 in promise/promise
@@ -33,7 +34,6 @@ a `18.2199`-year old Node developer cruising through life with a terrible music 
 📝 Created review (approved) on PR #69 in biaw/test-area
 ✅ Merged PR #69 in biaw/test-area
 ✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #72 in biaw/imagehost
 ```
 
 ## Repositories I maintain
@@ -95,14 +95,6 @@ a `18.2199`-year old Node developer cruising through life with a terrible music 
 [![biaw/imagehost lint badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Linting?label=👌)](https://github.com/biaw/imagehost/actions/workflows/linting.yml)
 [![biaw/imagehost scan badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/imagehost/actions/workflows/analysis-and-scans.yml)
 [![biaw/imagehost test badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Testing?label=🔬)](https://github.com/biaw/imagehost/actions/workflows/testing.yml)
-
-* [`promise/promise`](https://github.com/promise/promise): Automated GitHub profile readme\
-[![promise/promise stars](https://img.shields.io/github/stars/promise/promise?label=⭐)](https://github.com/promise/promise/stargazers)
-[![promise/promise last commit](https://img.shields.io/github/last-commit/promise/promise?label=✨)](https://github.com/promise/promise/commits)
-[![promise/promise issues](https://img.shields.io/github/issues-raw/promise/promise?label=❓)](https://github.com/promise/promise/issues)
-[![promise/promise pull requests](https://img.shields.io/github/issues-pr-raw/promise/promise?label=💪)](https://github.com/promise/promise/pulls)
-[![promise/promise lint badge](https://img.shields.io/github/workflow/status/promise/promise/Linting?label=👌)](https://github.com/promise/promise/actions/workflows/linting.yml)
-[![promise/promise test badge](https://img.shields.io/github/workflow/status/promise/promise/Testing?label=🔬)](https://github.com/promise/promise/actions/workflows/testing.yml)
 
 ## FAQ
 
