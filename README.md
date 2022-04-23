@@ -13,6 +13,7 @@ a `18.2198`-year old Node developer cruising through life with a terrible music 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/eslint-config
 ✨ Pushed 1 commit to promise/eslint-config
 ✨ Pushed 1 commit to biaw/test-area
@@ -32,7 +33,6 @@ a `18.2198`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to biaw/test-area
 ✅ Merged PR #74 in biaw/test-area
 📝 Created review (approved) on PR #74 in biaw/test-area
-✨ Pushed 1 commit to biaw/phone
 ```
 
 ## Repositories I maintain
@@ -91,5 +91,13 @@ a `18.2198`-year old Node developer cruising through life with a terrible music 
 ### You have unsigned commits, why?
 
 I am trying out [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits) on GitHub, starting from November 1st 2021. Any commits before this that is "unverified" is still me, but I will try and verify each commit going forward.
+
+### What coding style do you use?
+
+I try to restrain myself and have a consistent coding style when I make code, so I made this linting config: https://github.com/promise/eslint-config - This is *my* style and everyone has their own style, but feel free to use this as a template to find your own style.
+
+### Could you help me with my code?
+
+**TL;DR: Maybe.** You can join my [Discord](https://promise.solutions/discord) and go to the #coding channel (below #general), there's plenty of developers in the server and they all having different experiences with different languages and packages. We can, of course, not guarantee you'll get your answer, but we don't bite so give it a shot ;)
 
 > Thanks for checking out my profile. [![Profile Automation](https://img.shields.io/github/workflow/status/promise/promise/README%20Update?label=automation)](https://github.com/promise/promise/actions/workflows/README.yml)
