@@ -18,6 +18,7 @@ a `18.2199`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/promise
+✨ Pushed 1 commit to promise/promise
 ✨ Pushed 2 commits to promise/promise
 ✨ Pushed 1 commit to promise/promise
 🗣 Commented on #2 in promise/promise
@@ -33,7 +34,6 @@ a `18.2199`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #69 in biaw/test-area
 ✨ Pushed 1 commit to biaw/imagehost
 ✅ Merged PR #72 in biaw/imagehost
-✨ Pushed 1 commit to biaw/multidomain
 ```
 
 ## Repositories I maintain
@@ -96,7 +96,7 @@ a `18.2199`-year old Node developer cruising through life with a terrible music 
 [![biaw/imagehost scan badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/imagehost/actions/workflows/analysis-and-scans.yml)
 [![biaw/imagehost test badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Testing?label=🔬)](https://github.com/biaw/imagehost/actions/workflows/testing.yml)
 
-* [`promise/promise`](https://github.com/promise/promise): GitHub profile readme\
+* [`promise/promise`](https://github.com/promise/promise): Automated GitHub profile readme\
 [![promise/promise stars](https://img.shields.io/github/stars/promise/promise?label=⭐)](https://github.com/promise/promise/stargazers)
 [![promise/promise last commit](https://img.shields.io/github/last-commit/promise/promise?label=✨)](https://github.com/promise/promise/commits)
 [![promise/promise issues](https://img.shields.io/github/issues-raw/promise/promise?label=❓)](https://github.com/promise/promise/issues)
