@@ -9,8 +9,8 @@ on:
     - master
 
 jobs:
-  jest:
-    name: Jest
+  test:
+    name: Test README
     runs-on: ubuntu-latest
 
     steps:
