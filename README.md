@@ -6,13 +6,17 @@
 
 # 👋 I'm Glenn
 
-a `18.2306`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2307`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✅ Merged PR #84 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #83 in biaw/imagehost
 ✨ Pushed 1 commit to biaw/multidomain
 ✅ Merged PR #83 in biaw/multidomain
 ✨ Pushed 1 commit to biaw/multidomain
@@ -27,10 +31,6 @@ a `18.2306`-year old Node developer cruising through life with a terrible music 
 🗣 Commented on #239 in countr/countr
 ✨ Pushed 1 commit to project-blurple/bot-icon-sync
 ✅ Merged PR #10 in project-blurple/bot-icon-sync
-✨ Pushed 1 commit to project-blurple/bot-icon-sync
-✅ Merged PR #9 in project-blurple/bot-icon-sync
-✅ Merged PR #94 in biaw/phone
-✨ Pushed 1 commit to biaw/phone
 ```
 
 ## Repositories I maintain
