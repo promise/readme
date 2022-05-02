@@ -6,13 +6,14 @@
 
 # 👋 I'm Glenn
 
-a `18.245`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2451`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+🍴 Forked promise/bot-icon-sync from project-blurple/bot-icon-sync
 ✨ Pushed 1 commit to project-blurple/bot-icon-sync
 ✅ Merged PR #15 in project-blurple/bot-icon-sync
 ✨ Pushed 1 commit to biaw/phone
@@ -29,7 +30,6 @@ a `18.245`-year old Node developer cruising through life with a terrible music t
 ✅ Merged PR #81 in biaw/test-area
 ✨ Pushed 1 commit to biaw/test-area
 ✨ Pushed 1 commit to project-blurple/bot-icon-sync
-✨ Pushed 1 commit to countr/countr
 ```
 
 ## Repositories I maintain
