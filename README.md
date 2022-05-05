@@ -94,7 +94,7 @@ a `18.2522`-year old Node developer cruising through life with a terrible music 
 [![biaw/imagehost scan badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/imagehost/actions/workflows/analysis-and-scans.yml)
 [![biaw/imagehost test badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Testing?label=🔬)](https://github.com/biaw/imagehost/actions/workflows/testing.yml)
 
-* [`project-blurple/blurple-contests`](https://github.com/project-blurple/blurple-contests): *No description available*\
+* [`project-blurple/blurple-contests`](https://github.com/project-blurple/blurple-contests): A bot to help out in Project Blurple contests\
 [![project-blurple/blurple-contests stars](https://img.shields.io/github/stars/project-blurple/blurple-contests?label=⭐)](https://github.com/project-blurple/blurple-contests/stargazers)
 [![project-blurple/blurple-contests last commit](https://img.shields.io/github/last-commit/project-blurple/blurple-contests?label=✨)](https://github.com/project-blurple/blurple-contests/commits)
 [![project-blurple/blurple-contests issues](https://img.shields.io/github/issues-raw/project-blurple/blurple-contests?label=❓)](https://github.com/project-blurple/blurple-contests/issues)
