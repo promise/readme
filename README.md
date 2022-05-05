@@ -6,13 +6,20 @@
 
 # 👋 I'm Glenn
 
-a `18.2521`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2522`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✨ Pushed 3 commits to project-blurple/blurple-contests
+✨ Pushed 3 commits to project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✅ Merged PR #2 in project-blurple/blurple-contests
+🗣 Commented on #3 in project-blurple/blurple-contests
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #48 in countr/website
 ✨ Pushed 1 commit to countr/website
@@ -25,14 +32,6 @@ a `18.2521`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #245 in countr/countr
 ✨ Pushed 4 commits to stijnvdkolk/bot-icon-sync
 ✨ Pushed 2 commits to project-blurple/bot-icon-sync
-✨ Pushed 1 commit to stijnvdkolk/bot-icon-sync
-✨ Pushed 3 commits to stijnvdkolk/bot-icon-sync
-✨ Pushed 1 commit to project-blurple/bot-icon-sync
-✨ Pushed 1 commit to project-blurple/bot-icon-sync
-✨ Pushed 1 commit to promise/bot-icon-sync
-✨ Pushed 1 commit to promise/bot-icon-sync
-✨ Pushed 1 commit to promise/bot-icon-sync
-✨ Pushed 1 commit to promise/bot-icon-sync
 ```
 
 ## Repositories I maintain
@@ -94,6 +93,15 @@ a `18.2521`-year old Node developer cruising through life with a terrible music 
 [![biaw/imagehost lint badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Linting?label=👌)](https://github.com/biaw/imagehost/actions/workflows/linting.yml)
 [![biaw/imagehost scan badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/imagehost/actions/workflows/analysis-and-scans.yml)
 [![biaw/imagehost test badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Testing?label=🔬)](https://github.com/biaw/imagehost/actions/workflows/testing.yml)
+
+* [`project-blurple/blurple-contests`](https://github.com/project-blurple/blurple-contests): *No description available*\
+[![project-blurple/blurple-contests stars](https://img.shields.io/github/stars/project-blurple/blurple-contests?label=⭐)](https://github.com/project-blurple/blurple-contests/stargazers)
+[![project-blurple/blurple-contests last commit](https://img.shields.io/github/last-commit/project-blurple/blurple-contests?label=✨)](https://github.com/project-blurple/blurple-contests/commits)
+[![project-blurple/blurple-contests issues](https://img.shields.io/github/issues-raw/project-blurple/blurple-contests?label=❓)](https://github.com/project-blurple/blurple-contests/issues)
+[![project-blurple/blurple-contests pull requests](https://img.shields.io/github/issues-pr-raw/project-blurple/blurple-contests?label=💪)](https://github.com/project-blurple/blurple-contests/pulls)
+[![project-blurple/blurple-contests build badge](https://img.shields.io/github/workflow/status/project-blurple/blurple-contests/Docker%20Compose?label=📦)](https://github.com/project-blurple/blurple-contests/actions/workflows/docker-test.yml)
+[![project-blurple/blurple-contests lint badge](https://img.shields.io/github/workflow/status/project-blurple/blurple-contests/Linting?label=👌)](https://github.com/project-blurple/blurple-contests/actions/workflows/linting.yml)
+[![project-blurple/blurple-contests scan badge](https://img.shields.io/github/workflow/status/project-blurple/blurple-contests/Analysis%20and%20Scans?label=🔎)](https://github.com/project-blurple/blurple-contests/actions/workflows/analysis-and-scans.yml)
 
 ## FAQ
 
