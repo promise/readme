@@ -69,5 +69,15 @@ export default {
         },
       },
     },
+    "project-blurple/blurple-contests": {
+      badges: {
+        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
+        workflowBadges: {
+          build: { name: "Docker Compose", file: "docker-test.yml" },
+          lint: { name: "Linting", file: "linting.yml" },
+          scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
+        },
+      },
+    },
   },
 } as Config;
