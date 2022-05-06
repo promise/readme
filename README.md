@@ -6,13 +6,15 @@
 
 # 👋 I'm Glenn
 
-a `18.2546`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2547`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to project-blurple/blurple-contests
 ✨ Pushed 3 commits to project-blurple/blurple-contests
@@ -30,8 +32,6 @@ a `18.2546`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #44 in countr/website
 ✨ Pushed 1 commit to countr/countr
 ✅ Merged PR #245 in countr/countr
-✨ Pushed 4 commits to stijnvdkolk/bot-icon-sync
-✨ Pushed 2 commits to project-blurple/bot-icon-sync
 ```
 
 ## Repositories I maintain
