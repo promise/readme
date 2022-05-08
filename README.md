@@ -6,13 +6,14 @@
 
 # 👋 I'm Glenn
 
-a `18.2609`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2611`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 2 commits to promise/eslint-config
 ✨ Pushed 2 commits to project-blurple/blurple-contests
 ✨ Pushed 1 commit to project-blurple/blurple-hammer
 ✨ Pushed 1 commit to project-blurple/blurple-hammer
@@ -31,7 +32,6 @@ a `18.2609`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to project-blurple/blurple-contests
 ✅ Merged PR #6 in project-blurple/blurple-contests
 ✨ Pushed 1 commit to project-blurple/blurple-contests
-✅ Merged PR #7 in project-blurple/blurple-contests
 ```
 
 ## Repositories I maintain
