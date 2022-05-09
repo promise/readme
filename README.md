@@ -6,13 +6,23 @@
 
 # 👋 I'm Glenn
 
-a `18.2644`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2645`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #251 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #250 in countr/countr
+✅ Merged PR #4 in project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✅ Merged PR #1 in project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✅ Merged PR #8 in project-blurple/blurple-contests
 ✅ Merged PR #17 in project-blurple/bot-icon-sync
 ✨ Pushed 1 commit to project-blurple/bot-icon-sync
 ✨ Pushed 2 commits to promise/eslint-config
@@ -21,17 +31,6 @@ a `18.2644`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to project-blurple/blurple-hammer
 🗣 Commented on #6 in project-blurple/blurple-web
 ✅ Merged PR #47 in project-blurple/blurple-hammer
-✨ Pushed 1 commit to project-blurple/blurple-hammer
-💪 Opened PR #47 in project-blurple/blurple-hammer
-✨ Pushed 1 commit to project-blurple/blurple-hammer
-✨ Pushed 1 commit to project-blurple/blurple-hammer
-✨ Pushed 2 commits to project-blurple/blurple-hammer
-🗣 Commented on #47 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #49 in countr/website
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #249 in countr/countr
-✨ Pushed 1 commit to project-blurple/blurple-contests
 ```
 
 ## Repositories I maintain
