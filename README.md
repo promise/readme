@@ -6,13 +6,15 @@
 
 # 👋 I'm Glenn
 
-a `18.2891`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.2892`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #65 in countr/website
 🍴 Forked promise/vimium from philc/vimium
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #64 in countr/website
@@ -28,8 +30,6 @@ a `18.2891`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #87 in biaw/test-area
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #63 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #61 in countr/website
 ```
 
 ## Repositories I maintain
