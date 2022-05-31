@@ -6,7 +6,7 @@
 
 # 👋 I'm Glenn
 
-a `18.3247`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.3248`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
@@ -14,21 +14,21 @@ a `18.3247`-year old Node developer cruising through life with a terrible music 
 
 ```
 ✨ Pushed 1 commit to countr/website
+✅ Merged PR #76 in countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #77 in countr/website
+✅ Merged PR #268 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #267 in countr/countr
+✅ Merged PR #266 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #21 in project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✨ Pushed 1 commit to countr/website
 ✅ Merged PR #75 in countr/website
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #74 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #73 in countr/website
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #264 in countr/countr
-✨ Pushed 1 commit to project-blurple/blurple-contests
-✅ Merged PR #20 in project-blurple/blurple-contests
-✨ Pushed 1 commit to project-blurple/blurple-contests
-✅ Merged PR #19 in project-blurple/blurple-contests
-✨ Pushed 1 commit to promise/eslint-config
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #69 in countr/website
-✅ Merged PR #72 in countr/website
 ✨ Pushed 1 commit to countr/website
 ```
 
