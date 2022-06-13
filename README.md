@@ -6,13 +6,15 @@
 
 # 👋 I'm Glenn
 
-a `18.3579`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.3581`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to biaw/test-area
+✅ Merged PR #96 in biaw/test-area
 ❓ Opened issue #1 in Rodentman87/vscode-emote-preview
 ✅ Merged PR #28 in project-blurple/bot-icon-sync
 ✨ Pushed 1 commit to project-blurple/bot-icon-sync
@@ -28,8 +30,6 @@ a `18.3579`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #82 in countr/website
 ✅ Merged PR #271 in countr/countr
 ✨ Pushed 1 commit to countr/countr
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #274 in countr/countr
 ```
 
 ## Repositories I maintain
