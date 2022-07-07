@@ -6,32 +6,32 @@
 
 # 👋 I'm Glenn
 
-a `18.4257`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4258`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+🗣 Commented on #301 in countr/countr
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #100 in countr/website
-✨ Pushed 1 commit to countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #102 in countr/website
-✅ Merged PR #45 in project-blurple/blurple-contests
-✨ Pushed 1 commit to project-blurple/blurple-contests
-✨ Pushed 1 commit to project-blurple/bot-icon-sync
-✅ Merged PR #38 in project-blurple/bot-icon-sync
-✅ Merged PR #297 in countr/countr
+✅ Merged PR #302 in countr/countr
+🗣 Commented on #302 in countr/countr
+✅ Merged PR #303 in countr/countr
 ✨ Pushed 1 commit to countr/countr
-✨ Pushed 5 commits to countr/countr
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #101 in countr/website
-✨ Pushed 1 commit to project-blurple/blurple-contests
-✅ Merged PR #44 in project-blurple/blurple-contests
-✨ Pushed 1 commit to countr/access-manager
-✨ Pushed 1 commit to countr/access-manager
-✨ Pushed 4 commits to countr/access-manager
+✨ Pushed 6 commits to countr/countr
+✅ Merged PR #305 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 4 commits to countr/countr
+🗣 Commented on #305 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #298 in countr/countr
+🗣 Commented on #298 in countr/countr
+✅ Merged PR #300 in countr/countr
+✨ Pushed 1 commit to countr/countr
+🗣 Commented on #298 in countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #304 in countr/countr
 ```
 
 ## Repositories I maintain
