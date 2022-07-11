@@ -9,14 +9,14 @@ jobs:
     if: ${{ github.actor == 'dependabot[bot]' }}
 
     steps:
-    - name: Get Dependabot metadata
-      uses: dependabot/fetch-metadata@v1.1.1
-      id: metadata
+    - name: Command Dependabot to merge after CI passes
+      uses: actions/github-script@v5
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Enable auto-merge for Dependabot PRs
-      run: gh pr merge --auto --squash "$PR_URL"
-      env:
-        PR_URL: ${{ github.event.pull_request.html_url }}
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          github.rest.issues.createComment({
+            issue_number: context.issue.number,
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            body: '@dependabot squash and merge'
+          })
