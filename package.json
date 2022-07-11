@@ -1,10 +1,11 @@
 {
-  "name": "readme",
+  "name": "promise-readme",
   "main": "build",
   "license": "UNLICENSE",
   "scripts": {
     "build": "tsc",
-    "lint": "eslint ./src --max-warnings=0",
+    "lint": "eslint . --max-warnings=0",
+    "lint:fix": "eslint . --fix",
     "start": "node .",
     "watch": "tsc -w"
   },
