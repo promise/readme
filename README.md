@@ -6,32 +6,32 @@
 
 # 👋 I'm Glenn
 
-a `18.4367`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4372`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
-✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to countr/website
-✅ Merged PR #108 in countr/website
+✅ Merged PR #110 in countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #109 in countr/website
+✅ Merged PR #310 in countr/countr
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #308 in countr/countr
-✨ Pushed 1 commit to countr/website
-🗣 Commented on #107 in countr/website
-🗣 Commented on #21 in countr/website
-✨ Pushed 2 commits to countr/website
-🗣 Commented on #102 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #104 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #103 in countr/website
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #307 in countr/countr
-✨ Pushed 1 commit to project-blurple/blurple-contests
-✅ Merged PR #46 in project-blurple/blurple-contests
-✨ Pushed 1 commit to countr/countr
+✨ Pushed 2 commits to promise/promise
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 1 commit to promise/promise
+✅ Merged PR #24 in promise/promise
+✨ Pushed 1 commit to promise/promise
+✅ Merged PR #23 in promise/promise
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 1 commit to promise/promise
+🗣 Commented on #22 in promise/promise
+✨ Pushed 1 commit to promise/promise
+✅ Merged PR #19 in promise/promise
+✨ Pushed 1 commit to promise/promise
 ```
 
 ## Repositories I maintain
