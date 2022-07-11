@@ -10,13 +10,13 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.9.0",
     "@actions/github": "^4.0.0"
   },
   "devDependencies": {
     "@tsconfig/node16-strictest": "^1.0.1",
-    "@types/node": "^16.11.26",
-    "eslint": "^8.6.0",
+    "@types/node": "^18.0.3",
+    "eslint": "^8.19.0",
     "eslint-config-promise": "github:promise/eslint-config",
     "typescript": "^4.5.4"
   },
