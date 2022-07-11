@@ -14,7 +14,7 @@
     "@actions/github": "^4.0.0"
   },
   "devDependencies": {
-    "@tsconfig/node16-strictest": "^1.0.1",
+    "@tsconfig/node16-strictest": "^1.0.3",
     "@types/node": "^16.11.26",
     "eslint": "^8.19.0",
     "eslint-config-promise": "github:promise/eslint-config",
