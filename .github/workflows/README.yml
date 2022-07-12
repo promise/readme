@@ -39,16 +39,8 @@ jobs:
       run: npm ci
       if: steps.cache-packages.outputs.cache-hit != 'true'
 
-    - name: Restore cached build
-      uses: actions/cache@v2
-      id: cache-build
-      with:
-        path: build
-        key: ${{ github.sha }}
-
-    - name: Fallback if build cache fails
+    - name: Build TypeScript
       run: npm run build
-      if: steps.cache-build.outputs.cache-hit != 'true'
 
     - name: Recreate README
       run: npm start
