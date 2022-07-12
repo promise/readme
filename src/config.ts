@@ -12,7 +12,6 @@ export default {
           build: { name: "Build and publish", file: "build-and-publish.yml" },
           lint: { name: "Linting", file: "linting.yml" },
           scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
-          test: { name: "Testing", file: "testing.yml" },
         },
       },
     },
