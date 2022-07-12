@@ -6,7 +6,7 @@
 
 # 👋 I'm Glenn
 
-a `18.4397`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4398`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
@@ -58,7 +58,7 @@ a `18.4397`-year old Node developer cruising through life with a terrible music 
 [![project-blurple/blurple-hammer lint badge](https://img.shields.io/github/workflow/status/project-blurple/blurple-hammer/Linting?label=👌)](https://github.com/project-blurple/blurple-hammer/actions/workflows/linting.yml)
 [![project-blurple/blurple-hammer scan badge](https://img.shields.io/github/workflow/status/project-blurple/blurple-hammer/Analysis%20and%20Scans?label=🔎)](https://github.com/project-blurple/blurple-hammer/actions/workflows/analysis-and-scans.yml)
 
-* [`biaw/phone`](https://github.com/biaw/phone): A Discord application to call your cellphone through Twilio in case of emergencies\
+* [`biaw/phone`](https://github.com/biaw/phone): A Discord application to call your cellphone through Twilio in case of emergencies. Built with Cloudflare Workers\
 [![biaw/phone stars](https://img.shields.io/github/stars/biaw/phone?label=⭐)](https://github.com/biaw/phone/stargazers)
 [![biaw/phone last commit](https://img.shields.io/github/last-commit/biaw/phone?label=✨)](https://github.com/biaw/phone/commits)
 [![biaw/phone issues](https://img.shields.io/github/issues-raw/biaw/phone?label=❓)](https://github.com/biaw/phone/issues)
@@ -66,7 +66,6 @@ a `18.4397`-year old Node developer cruising through life with a terrible music 
 [![biaw/phone build badge](https://img.shields.io/github/workflow/status/biaw/phone/Build%20and%20publish?label=📦)](https://github.com/biaw/phone/actions/workflows/build-and-publish.yml)
 [![biaw/phone lint badge](https://img.shields.io/github/workflow/status/biaw/phone/Linting?label=👌)](https://github.com/biaw/phone/actions/workflows/linting.yml)
 [![biaw/phone scan badge](https://img.shields.io/github/workflow/status/biaw/phone/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/phone/actions/workflows/analysis-and-scans.yml)
-[![biaw/phone test badge](https://img.shields.io/github/workflow/status/biaw/phone/Testing?label=🔬)](https://github.com/biaw/phone/actions/workflows/testing.yml)
 
 * [`biaw/test-area`](https://github.com/biaw/test-area): A Discord bot to easily create testing servers, without having to write in that 2FA code to delete it later\
 [![biaw/test-area stars](https://img.shields.io/github/stars/biaw/test-area?label=⭐)](https://github.com/biaw/test-area/stargazers)
