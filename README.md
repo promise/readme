@@ -6,13 +6,14 @@
 
 # 👋 I'm Glenn
 
-a `18.4415`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4417`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to biaw/phone
 ✨ Pushed 2 commits to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
@@ -29,7 +30,6 @@ a `18.4415`-year old Node developer cruising through life with a terrible music 
 🍴 Forked promise/phone from biaw/phone
 ✨ Pushed 1 commit to biaw/phone
 🍴 Forked promise/phone from biaw/phone
-✨ Pushed 1 commit to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
