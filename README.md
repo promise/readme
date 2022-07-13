@@ -6,35 +6,35 @@
 
 # 👋 I'm Glenn
 
-a `18.4398`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.44`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,mongodb,git,docker,cloudflare,md,html,tailwind,css,workers"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 2 commits to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to promise/promise
+✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #111 in countr/website
+✨ Pushed 2 commits to biaw/phone
 ✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to biaw/phone
+✨ Pushed 3 commits to biaw/phone
+🍴 Forked promise/phone from biaw/phone
 ✨ Pushed 1 commit to biaw/phone
 🍴 Forked promise/phone from biaw/phone
 ✨ Pushed 1 commit to biaw/phone
-✅ Merged PR #128 in biaw/phone
-❓ Closed issue #9 in biaw/phone
-❓ Closed issue #9 in biaw/phone
-✅ Merged PR #121 in biaw/phone
 ✨ Pushed 1 commit to biaw/phone
-🍴 Forked promise/workers-graphql-server from cloudflare/workers-graphql-server
-✨ Pushed 1 commit to promise/placeholders.dev
-🍴 Forked promise/placeholders.dev from Cherry/placeholders.dev
-🗣 Commented on #45 in promise/eslint-config
-🗣 Commented on #45 in promise/eslint-config
-🗣 Commented on #44 in promise/eslint-config
-✨ Pushed 3 commits to promise/eslint-config
-✨ Pushed 1 commit to promise/promise
-🗣 Commented on #25 in promise/promise
+✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to biaw/phone
 ```
 
 ## Repositories I maintain
