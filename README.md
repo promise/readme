@@ -6,13 +6,21 @@
 
 # 👋 I'm Glenn
 
-a `18.4447`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4448`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+✅ Merged PR #39 in project-blurple/bot-icon-sync
+✨ Pushed 1 commit to project-blurple/bot-icon-sync
+✅ Merged PR #131 in biaw/phone
+✨ Pushed 1 commit to biaw/phone
+✨ Pushed 1 commit to biaw/phone
+✅ Merged PR #132 in biaw/phone
+✅ Merged PR #130 in biaw/phone
+✨ Pushed 1 commit to biaw/phone
 ✅ Merged PR #112 in countr/website
 ✨ Pushed 1 commit to countr/website
 ✨ Pushed 1 commit to countr/countr
@@ -22,15 +30,6 @@ a `18.4447`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to biaw/phone
 ✅ Merged PR #129 in biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 2 commits to biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 1 commit to promise/promise
-✨ Pushed 1 commit to promise/promise
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 1 commit to countr/website
 ```
 
 ## Repositories I maintain
