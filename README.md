@@ -13,6 +13,7 @@ a `18.4552`-year old Node developer cruising through life with a terrible music 
 ## GitHub Activity
 
 ```
+🗣 Commented on #26 in promise/promise
 🗣 Commented on #46 in promise/eslint-config
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #116 in countr/website
@@ -29,7 +30,6 @@ a `18.4552`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #113 in countr/website
 ✨ Pushed 1 commit to countr/website
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #313 in countr/countr
 ```
 
 ## Repositories I maintain
