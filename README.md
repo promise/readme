@@ -6,30 +6,30 @@
 
 # 👋 I'm Glenn
 
-a `18.4561`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4563`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+✅ Merged PR #122 in countr/website
+✨ Pushed 1 commit to countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #119 in countr/website
+✅ Merged PR #50 in project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✅ Merged PR #49 in project-blurple/blurple-contests
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✅ Merged PR #48 in project-blurple/blurple-contests
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #316 in countr/countr
 ✨ Pushed 1 commit to project-blurple/bot-icon-sync
 ✅ Merged PR #41 in project-blurple/bot-icon-sync
 ✅ Merged PR #40 in project-blurple/bot-icon-sync
 ✨ Pushed 1 commit to project-blurple/bot-icon-sync
 ✨ Pushed 1 commit to biaw/phone
-✅ Merged PR #134 in biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✅ Merged PR #133 in biaw/phone
-🗣 Commented on #26 in promise/promise
-🗣 Commented on #46 in promise/eslint-config
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #116 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #118 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #117 in countr/website
-✨ Pushed 1 commit to countr/website
 ```
 
 ## Repositories I maintain
