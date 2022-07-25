@@ -6,13 +6,28 @@
 
 # 👋 I'm Glenn
 
-a `18.4752`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4753`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✅ Merged PR #52 in project-blurple/blurple-contests
+✨ Pushed 1 commit to countr/access-manager
+✅ Merged PR #9 in countr/access-manager
+✨ Pushed 1 commit to countr/access-manager
+✅ Merged PR #7 in countr/access-manager
+✨ Pushed 1 commit to countr/access-manager
+✅ Merged PR #12 in countr/access-manager
+✨ Pushed 1 commit to countr/access-manager
+✅ Merged PR #13 in countr/access-manager
+✨ Pushed 1 commit to countr/access-manager
+✅ Merged PR #15 in countr/access-manager
+✨ Pushed 1 commit to countr/access-manager
+✅ Merged PR #20 in countr/access-manager
+📝 Created review (approved) on PR #20 in countr/access-manager
 ❌ Closed PR #144 in countr/website
 🗣 Commented on #144 in countr/website
 ✨ Pushed 1 commit to countr/countr
@@ -20,18 +35,6 @@ a `18.4752`-year old Node developer cruising through life with a terrible music 
 ✨ Pushed 1 commit to countr/countr
 ✨ Pushed 1 commit to project-blurple/bot-icon-sync
 ✅ Merged PR #42 in project-blurple/bot-icon-sync
-✨ Pushed 1 commit to promise/promise
-✅ Merged PR #37 in promise/promise
-✨ Pushed 1 commit to promise/promise
-✅ Merged PR #36 in promise/promise
-✨ Pushed 1 commit to promise/renovate-config
-✅ Merged PR #3 in promise/renovate-config
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #332 in countr/countr
-❌ Closed PR #1 in promise/graveyard
-❌ Closed PR #146 in countr/website
-✨ Pushed 1 commit to promise/renovate-config
-✨ Pushed 1 commit to promise/renovate-config
 ```
 
 ## Repositories I maintain
