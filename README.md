@@ -14,6 +14,7 @@ a `18.4744`-year old Node developer cruising through life with a terrible music 
 
 ```
 ✨ Pushed 1 commit to promise/promise
+✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to promise/eslint-config
 🗣 Commented on #138 in countr/website
 ❓ Closed issue #138 in countr/website
