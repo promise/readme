@@ -6,13 +6,17 @@
 
 # 👋 I'm Glenn
 
-a `18.474`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4742`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+❌ Closed PR #136 in countr/website
+🗣 Commented on #136 in countr/website
+✨ Pushed 1 commit to countr/website
+✅ Merged PR #135 in countr/website
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #134 in countr/website
 🗣 Commented on #134 in countr/website
@@ -30,8 +34,6 @@ a `18.474`-year old Node developer cruising through life with a terrible music t
 ✨ Pushed 1 commit to promise/eslint-config
 ✅ Merged PR #49 in promise/eslint-config
 ✨ Pushed 1 commit to promise/eslint-config
-❌ Closed PR #128 in countr/website
-❌ Closed PR #129 in countr/website
 ```
 
 ## Repositories I maintain
