@@ -20,9 +20,6 @@
     "eslint-config-promise": "github:promise/eslint-config",
     "typescript": "^4.7.4"
   },
-  "engines": {
-    "node": "16.x"
-  },
   "eslintConfig": {
     "extends": "promise"
   }
