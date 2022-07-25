@@ -6,13 +6,23 @@
 
 # 👋 I'm Glenn
 
-a `18.4746`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4747`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to promise/promise
+✅ Merged PR #36 in promise/promise
+✨ Pushed 1 commit to promise/renovate-config
+✅ Merged PR #3 in promise/renovate-config
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #332 in countr/countr
+❌ Closed PR #1 in promise/graveyard
+❌ Closed PR #146 in countr/website
+✨ Pushed 1 commit to promise/renovate-config
+✨ Pushed 1 commit to promise/renovate-config
 ✨ Pushed 1 commit to countr/website
 ✅ Merged PR #145 in countr/website
 ✨ Pushed 1 commit to biaw/test-area
@@ -23,16 +33,6 @@ a `18.4746`-year old Node developer cruising through life with a terrible music 
 ✅ Merged PR #17 in countr/access-manager
 ✨ Pushed 1 commit to countr/access-manager
 ✨ Pushed 1 commit to countr/countr
-✅ Merged PR #18 in countr/access-manager
-✅ Merged PR #331 in countr/countr
-✨ Pushed 1 commit to countr/access-manager
-✅ Merged PR #19 in countr/access-manager
-✅ Merged PR #139 in biaw/phone
-✨ Pushed 1 commit to biaw/phone
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #143 in countr/website
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #126 in countr/website
 ```
 
 ## Repositories I maintain
