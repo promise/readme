@@ -25,28 +25,6 @@ export default {
         },
       },
     },
-    "biaw/multidomain": {
-      badges: {
-        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
-        workflowBadges: {
-          build: { name: "Build and publish", file: "build-and-publish.yml" },
-          lint: { name: "Linting", file: "linting.yml" },
-          scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
-          test: { name: "Testing", file: "testing.yml" },
-        },
-      },
-    },
-    "biaw/imagehost": {
-      badges: {
-        repoBadges: ["stars", "lastCommit", "issues", "pulls"],
-        workflowBadges: {
-          build: { name: "Build and publish", file: "build-and-publish.yml" },
-          lint: { name: "Linting", file: "linting.yml" },
-          scan: { name: "Analysis and Scans", file: "analysis-and-scans.yml" },
-          test: { name: "Testing", file: "testing.yml" },
-        },
-      },
-    },
     "countr/countr": {
       badges: {
         repoBadges: ["stars", "lastCommit", "issues", "pulls"],

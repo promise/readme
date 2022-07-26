@@ -28,7 +28,11 @@ I am trying out [vigilant mode](https://docs.github.com/github/authenticating-to
 
 ### What coding style do you use?
 
-I try to restrain myself and have a consistent coding style when I make code, so I made this linting config: https://github.com/promise/eslint-config - This is *my* style and everyone has their own style, but feel free to use this as a template to find your own style.
+I try to have a consistent coding style when I code, so I made this linting config: https://github.com/promise/eslint-config - This is *my* style and everyone has their own style, but feel free to use this as a template to find your own style.
+
+### What config do you use for Renovate?
+
+I have my own mutual config repository I use everywhere here: https://github.com/promise/renovate-config - If you plan on using it yourself then I suggest you fork it as I might update stuff on-the-go as I please.
 
 ### Could you help me with my code?
 
