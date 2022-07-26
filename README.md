@@ -6,30 +6,30 @@
 
 # 👋 I'm Glenn
 
-a `18.4756`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4757`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to promise/promise
 ✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #126 in biaw/imagehost
+✅ Merged PR #127 in biaw/imagehost
+✨ Pushed 1 commit to biaw/multidomain
+✅ Merged PR #139 in biaw/multidomain
 ✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #128 in biaw/imagehost
+✅ Merged PR #125 in biaw/imagehost
+✅ Merged PR #121 in biaw/multidomain
+✨ Pushed 1 commit to biaw/multidomain
 ✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #139 in biaw/imagehost
-✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #138 in biaw/imagehost
-✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #136 in biaw/imagehost
-✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #135 in biaw/imagehost
-✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #134 in biaw/imagehost
-✨ Pushed 1 commit to biaw/imagehost
-✅ Merged PR #130 in biaw/imagehost
-✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #120 in biaw/imagehost
+✨ Pushed 1 commit to biaw/multidomain
+✅ Merged PR #126 in biaw/multidomain
+✅ Merged PR #116 in biaw/test-area
+✨ Pushed 2 commits to biaw/test-area
+✨ Pushed 1 commit to project-blurple/blurple-contests
+✅ Merged PR #62 in project-blurple/blurple-contests
 ```
 
 ## Repositories I maintain
@@ -71,26 +71,6 @@ a `18.4756`-year old Node developer cruising through life with a terrible music 
 [![biaw/test-area lint badge](https://img.shields.io/github/workflow/status/biaw/test-area/Linting?label=👌)](https://github.com/biaw/test-area/actions/workflows/linting.yml)
 [![biaw/test-area scan badge](https://img.shields.io/github/workflow/status/biaw/test-area/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/test-area/actions/workflows/analysis-and-scans.yml)
 
-* [`biaw/multidomain`](https://github.com/biaw/multidomain): A webserver using Express that can deliver static pages to multiple domains\
-[![biaw/multidomain stars](https://img.shields.io/github/stars/biaw/multidomain?label=⭐)](https://github.com/biaw/multidomain/stargazers)
-[![biaw/multidomain last commit](https://img.shields.io/github/last-commit/biaw/multidomain?label=✨)](https://github.com/biaw/multidomain/commits)
-[![biaw/multidomain issues](https://img.shields.io/github/issues-raw/biaw/multidomain?label=❓)](https://github.com/biaw/multidomain/issues)
-[![biaw/multidomain pull requests](https://img.shields.io/github/issues-pr-raw/biaw/multidomain?label=💪)](https://github.com/biaw/multidomain/pulls)
-[![biaw/multidomain build badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Build%20and%20publish?label=📦)](https://github.com/biaw/multidomain/actions/workflows/build-and-publish.yml)
-[![biaw/multidomain lint badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Linting?label=👌)](https://github.com/biaw/multidomain/actions/workflows/linting.yml)
-[![biaw/multidomain scan badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/multidomain/actions/workflows/analysis-and-scans.yml)
-[![biaw/multidomain test badge](https://img.shields.io/github/workflow/status/biaw/multidomain/Testing?label=🔬)](https://github.com/biaw/multidomain/actions/workflows/testing.yml)
-
-* [`biaw/imagehost`](https://github.com/biaw/imagehost): A simple express file uploader used as an image hosting service\
-[![biaw/imagehost stars](https://img.shields.io/github/stars/biaw/imagehost?label=⭐)](https://github.com/biaw/imagehost/stargazers)
-[![biaw/imagehost last commit](https://img.shields.io/github/last-commit/biaw/imagehost?label=✨)](https://github.com/biaw/imagehost/commits)
-[![biaw/imagehost issues](https://img.shields.io/github/issues-raw/biaw/imagehost?label=❓)](https://github.com/biaw/imagehost/issues)
-[![biaw/imagehost pull requests](https://img.shields.io/github/issues-pr-raw/biaw/imagehost?label=💪)](https://github.com/biaw/imagehost/pulls)
-[![biaw/imagehost build badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Build%20and%20publish?label=📦)](https://github.com/biaw/imagehost/actions/workflows/build-and-publish.yml)
-[![biaw/imagehost lint badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Linting?label=👌)](https://github.com/biaw/imagehost/actions/workflows/linting.yml)
-[![biaw/imagehost scan badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Analysis%20and%20Scans?label=🔎)](https://github.com/biaw/imagehost/actions/workflows/analysis-and-scans.yml)
-[![biaw/imagehost test badge](https://img.shields.io/github/workflow/status/biaw/imagehost/Testing?label=🔬)](https://github.com/biaw/imagehost/actions/workflows/testing.yml)
-
 * [`project-blurple/blurple-contests`](https://github.com/project-blurple/blurple-contests): A bot to help out in Project Blurple contests\
 [![project-blurple/blurple-contests stars](https://img.shields.io/github/stars/project-blurple/blurple-contests?label=⭐)](https://github.com/project-blurple/blurple-contests/stargazers)
 [![project-blurple/blurple-contests last commit](https://img.shields.io/github/last-commit/project-blurple/blurple-contests?label=✨)](https://github.com/project-blurple/blurple-contests/commits)
@@ -108,7 +88,11 @@ I am trying out [vigilant mode](https://docs.github.com/github/authenticating-to
 
 ### What coding style do you use?
 
-I try to restrain myself and have a consistent coding style when I make code, so I made this linting config: https://github.com/promise/eslint-config - This is *my* style and everyone has their own style, but feel free to use this as a template to find your own style.
+I try to have a consistent coding style when I code, so I made this linting config: https://github.com/promise/eslint-config - This is *my* style and everyone has their own style, but feel free to use this as a template to find your own style.
+
+### What config do you use for Renovate?
+
+I have my own mutual config repository I use everywhere here: https://github.com/promise/renovate-config - If you plan on using it yourself then I suggest you fork it as I might update stuff on-the-go as I please.
 
 ### Could you help me with my code?
 
