@@ -6,35 +6,30 @@
 
 # 👋 I'm Glenn
 
-a `18.4754`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.4756`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
-✨ Pushed 1 commit to project-blurple/blurple-contests
-✅ Merged PR #53 in project-blurple/blurple-contests
-✨ Pushed 1 commit to project-blurple/blurple-contests
-✅ Merged PR #52 in project-blurple/blurple-contests
-✨ Pushed 1 commit to countr/access-manager
-✅ Merged PR #9 in countr/access-manager
-✨ Pushed 1 commit to countr/access-manager
-✅ Merged PR #7 in countr/access-manager
-✨ Pushed 1 commit to countr/access-manager
-✅ Merged PR #12 in countr/access-manager
-✨ Pushed 1 commit to countr/access-manager
-✅ Merged PR #13 in countr/access-manager
-✨ Pushed 1 commit to countr/access-manager
-✅ Merged PR #15 in countr/access-manager
-✨ Pushed 1 commit to countr/access-manager
-✅ Merged PR #20 in countr/access-manager
-📝 Created review (approved) on PR #20 in countr/access-manager
-❌ Closed PR #144 in countr/website
-🗣 Commented on #144 in countr/website
-✨ Pushed 1 commit to countr/countr
-✅ Merged PR #336 in countr/countr
-✨ Pushed 1 commit to countr/countr
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #126 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #128 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #139 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #138 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #136 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #135 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #134 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
+✅ Merged PR #130 in biaw/imagehost
+✨ Pushed 1 commit to biaw/imagehost
 ```
 
 ## Repositories I maintain
