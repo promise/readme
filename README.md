@@ -6,37 +6,38 @@
 
 # 👋 I'm Glenn
 
-a `18.5077`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.5078`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+❓ Closed issue #145 in countr/countr
+❓ Closed issue #141 in countr/countr
+🗣 Commented on #141 in countr/countr
+❓ Closed issue #133 in countr/countr
+🗣 Commented on #133 in countr/countr
+🗣 Commented on #119 in countr/countr
+❓ Closed issue #119 in countr/countr
+❓ Closed issue #112 in countr/countr
+🗣 Commented on #112 in countr/countr
+❓ Closed issue #111 in countr/countr
+❓ Closed issue #102 in countr/countr
+🗣 Commented on #102 in countr/countr
+❓ Closed issue #77 in countr/countr
+🗣 Commented on #77 in countr/countr
+❓ Closed issue #48 in countr/countr
+🗣 Commented on #48 in countr/countr
+❓ Closed issue #47 in countr/countr
+🗣 Commented on #47 in countr/countr
+❓ Closed issue #17 in countr/countr
+✨ Pushed 1 commit to countr/countr
 ✨ Pushed 1 commit to countr/status-page-cronjob
 ✨ Pushed 1 commit to countr/countr
 ✨ Pushed 1 commit to countr/countr
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to countr/access-manager
-✨ Pushed 1 commit to countr/countr
-✨ Pushed 2 commits to countr/website
-✨ Pushed 1 commit to countr/website
-✨ Pushed 12 commits to countr/website
-✨ Pushed 3 commits to countr/countr
-✨ Pushed 10 commits to countr/countr
-✨ Pushed 1 commit to countr/website
-✨ Pushed 24 commits to countr/website
-✨ Pushed 2 commits to countr/countr
-✨ Pushed 9 commits to countr/countr
-✨ Pushed 6 commits to countr/countr
-✨ Pushed 1 commit to countr/access-manager
-✨ Pushed 1 commit to countr/access-manager
-✨ Pushed 1 commit to countr/website
-✅ Merged PR #160 in countr/website
-✨ Pushed 2 commits to countr/website
-✨ Pushed 1 commit to countr/website
-✨ Pushed 1 commit to countr/website
-💪 Opened PR #160 in countr/website
 ```
 
 ## Repositories I maintain
