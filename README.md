@@ -6,13 +6,18 @@
 
 # 👋 I'm Glenn
 
-a `18.508`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.5082`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 1 commit to countr/countr
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #362 in countr/countr
+💪 Opened PR #362 in countr/countr
 ✨ Pushed 1 commit to countr/countr
 ✨ Pushed 2 commits to countr/countr
 ✨ Pushed 1 commit to countr/website
@@ -30,12 +35,6 @@ a `18.508`-year old Node developer cruising through life with a terrible music t
 ❓ Closed issue #111 in countr/countr
 ❓ Closed issue #102 in countr/countr
 🗣 Commented on #102 in countr/countr
-❓ Closed issue #77 in countr/countr
-🗣 Commented on #77 in countr/countr
-❓ Closed issue #48 in countr/countr
-🗣 Commented on #48 in countr/countr
-❓ Closed issue #47 in countr/countr
-🗣 Commented on #47 in countr/countr
 ```
 
 ## Repositories I maintain
