@@ -6,13 +6,14 @@
 
 # 👋 I'm Glenn
 
-a `18.5096`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.5098`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+✨ Pushed 3 commits to countr/countr
 ✨ Pushed 1 commit to countr/countr
 ✅ Merged PR #364 in countr/countr
 💪 Opened PR #364 in countr/countr
