@@ -1,15 +1,11 @@
-import { copyFile, mkdir, readFile, writeFile } from "fs/promises";
+import { copySync, ensureDirSync, writeFileSync } from "fs-extra";
 import env from "./environment";
 import generateSkillIcons from "./modules/skillicons";
 import { getActivity } from "./modules/githubActivity";
 import { join } from "path";
 import octokit from "./utils/github";
+import { readFile } from "fs/promises";
 import { yearInMs } from "./utils/time";
-
-// go through template steps
-
-// write to result folder
-// copy renovate to result folder
 
 void readFile(join(__dirname, "../src/template.md"), "utf8").then(async template => {
   const user = await octokit.rest.users.getByUsername({ username: env.username }).then(({ data }) => data);
@@ -21,7 +17,7 @@ void readFile(join(__dirname, "../src/template.md"), "utf8").then(async template
     .replace(/<!--ACTIVITY-->/gmu, await getActivity())
     .replace(/<!--DATE-->/gmu, new Date().toLocaleString());
 
-  await mkdir(join(__dirname, "../output")).catch(() => null);
-  void writeFile(join(__dirname, "../output/README.md"), output, "utf8");
-  void copyFile(join(__dirname, "../.github/renovate.json"), join(__dirname, "../output/renovate.json"));
+  ensureDirSync(join(__dirname, "../output"));
+  writeFileSync(join(__dirname, "../output/README.md"), output, "utf8");
+  copySync(join(__dirname, "../.github"), join(__dirname, "../output/.github"));
 });
