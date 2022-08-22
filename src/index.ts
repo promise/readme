@@ -1,10 +1,9 @@
-import { copySync, ensureDirSync, writeFileSync } from "fs-extra";
+import { copyFile, mkdir, readFile, writeFile } from "fs/promises";
 import env from "./environment";
 import generateSkillIcons from "./modules/skillicons";
 import { getActivity } from "./modules/githubActivity";
 import { join } from "path";
 import octokit from "./utils/github";
-import { readFile } from "fs/promises";
 import { yearInMs } from "./utils/time";
 
 void readFile(join(__dirname, "../src/template.md"), "utf8").then(async template => {
@@ -17,7 +16,7 @@ void readFile(join(__dirname, "../src/template.md"), "utf8").then(async template
     .replace(/<!--ACTIVITY-->/gmu, await getActivity())
     .replace(/<!--DATE-->/gmu, new Date().toLocaleString());
 
-  ensureDirSync(join(__dirname, "../output"));
-  writeFileSync(join(__dirname, "../output/README.md"), output, "utf8");
-  copySync(join(__dirname, "../.github"), join(__dirname, "../output/.github"));
+  await mkdir(join(__dirname, "../output")).catch(() => null);
+  void writeFile(join(__dirname, "../output/README.md"), output, "utf8");
+  void copyFile(join(__dirname, "../.github/renovate.json"), join(__dirname, "../output/renovate.json"));
 });
