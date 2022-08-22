@@ -1,7 +1,8 @@
 import dedent from "dedent";
+import env from "../environment";
 
 export default function generateSkillIcons(): string {
-  const url = "https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=19";
+  const url = `https://skillicons.dev/icons?i=${env.icons.join(encodeURIComponent(","))}&perline=19`;
   return dedent`
     <p align="center">
       <picture>

@@ -15,6 +15,25 @@ const env = {
     "project-blurple/bot-icon-sync",
     "promise/*",
   ],
+  icons: [
+    "nodejs",
+    "ts",
+    "js",
+    "discord",
+    "bots",
+    "mongodb",
+    "github",
+    "git",
+    "express",
+    "docker",
+    "workers",
+    "jest",
+    "md",
+    "html",
+    "tailwind",
+    "react",
+    "css",
+  ],
 } as const;
 
 export default env;
