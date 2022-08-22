@@ -1,0 +1,38 @@
+name: Linting
+on:
+  push:
+    branches:
+    - main
+  pull_request:
+    branches:
+    - main
+
+jobs:
+  eslint:
+    name: ESLint
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
+      with:
+        ref: main
+
+    - name: Set up node
+      uses: actions/setup-node@2fddd8803e2f5c9604345a0b591c3020ee971a93 # tag=v3
+      with:
+        node-version: "16.x"
+
+    - name: Set up module cache
+      uses: actions/cache@a7c34adf76222e77931dedbf4a45b2e4648ced19 # tag=v3
+      id: cache-packages
+      with:
+        path: node_modules
+        key: ${{ hashFiles('**/package-lock.json') }}
+
+    - name: Install dependencies
+      run: npm ci
+      if: steps.cache-packages.outputs.cache-hit != 'true'
+
+    - name: Run ESLint
+      run: npm run lint

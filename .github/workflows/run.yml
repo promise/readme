@@ -1,0 +1,67 @@
+name: Profile README
+
+on:
+  push:
+    branches:
+    - main
+    pull_request:
+    - main
+    schedule:
+    - cron: "* * * * *" # all the god damn time >:)
+    workflow_dispatch:
+
+jobs:
+  main:
+    name: Recreate README
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
+      with:
+        ref: main
+
+    - name: Set up node
+      uses: actions/setup-node@2fddd8803e2f5c9604345a0b591c3020ee971a93 # tag=v3
+      with:
+        node-version: "16.x"
+
+    - name: Restore cached modules
+      uses: actions/cache@a7c34adf76222e77931dedbf4a45b2e4648ced19 # tag=v3
+      id: cache-packages
+      with:
+        path: node_modules
+        key: ${{ hashFiles('**/package-lock.json') }}
+
+    - name: Fallback if module cache fails
+      run: npm ci
+      if: steps.cache-packages.outputs.cache-hit != 'true'
+
+    - name: Restore cached build
+      uses: actions/cache@fd5de65bc895cf536527842281bea11763fefd77 # tag=v3
+      id: cache-build
+      with:
+        path: build
+        key: ${{ github.sha }}
+
+    - name: Fallback if build cache fails
+      run: npm run build
+      if: steps.cache-build.outputs.cache-hit != 'true'
+
+    - name: Recreate README
+      run: npm start
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and push
+      if: ${{ github.event_name != 'pull_request' }}
+      uses: ozaner/git-publish-subdir-action@develop
+      env:
+        REPO: self
+        BRANCH: promise
+        FOLDER: output
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SQUASH_HISTORY: true
+        MESSAGE: "Welcome to my profile"
+        USERNAME: "github-actions[bot]"
+        EMAIL: "github-actions[bot]@users.noreply.github.com"
