@@ -6,13 +6,22 @@
 
 # 👋 I'm Glenn
 
-a `18.5497`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
+a `18.5504`-year old Node developer cruising through life with a terrible music taste, horrendous posture and probably in front of some sort of computer screen
 
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,ts,js,discord,bots,mongodb,github,git,express,docker,workers,jest,md,html,tailwind,react,css&perline=50"/></p>
 
 ## GitHub Activity
 
 ```
+❓ Opened issue #167 in biaw/phone
+✨ Pushed 1 commit to biaw/phone
+❌ Closed PR #1 in promise/discord-api-types
+✨ Pushed 5 commits to promise/discord-api-types
+✨ Pushed 1 commit to countr/access-manager
+✨ Pushed 1 commit to countr/countr
+✅ Merged PR #413 in countr/countr
+✨ Pushed 1 commit to promise/renovate-config
+✨ Pushed 1 commit to promise/renovate-config
 ❓ Reopened issue #119 in countr/countr
 ✨ Pushed 1 commit to promise/discord-api-types
 ✨ Pushed 1 commit to promise/discord-api-types
@@ -25,16 +34,6 @@ a `18.5497`-year old Node developer cruising through life with a terrible music 
 🍴 Forked promise/discord-api-types from discordjs/discord-api-types
 ✨ Pushed 1 commit to countr/website
 ❓ Closed issue #175 in countr/website
-✅ Merged PR #187 in countr/website
-✨ Pushed 2 commits to countr/website
-✨ Pushed 2 commits to countr/website
-✨ Pushed 1 commit to countr/website
-💪 Opened PR #187 in countr/website
-✨ Pushed 1 commit to countr/website
-❓ Opened issue #401 in countr/countr
-✨ Pushed 1 commit to countr/countr
-✨ Pushed 1 commit to countr/status-page-cronjob
-✨ Pushed 2 commits to countr/website
 ```
 
 ## Repositories I maintain
