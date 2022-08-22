@@ -60,7 +60,7 @@ jobs:
         REPO: self
         BRANCH: promise
         FOLDER: output
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         SQUASH_HISTORY: true
         MESSAGE: "Welcome to my profile"
         USERNAME: "github-actions[bot]"
