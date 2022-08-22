@@ -8,7 +8,7 @@ on:
     branches:
     - main
   schedule:
-  - cron: "* * * * *" # all the god damn time >:)
+    - cron: "* * * * *" # all the god damn time >:)
   workflow_dispatch:
 
 jobs:
