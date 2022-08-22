@@ -1,4 +1,5 @@
-import { copyFile, mkdir, readFile, writeFile } from "fs/promises";
+import { copy, ensureDir } from "fs-extra";
+import { readFile, writeFile } from "fs/promises";
 import env from "./environment";
 import generateSkillIcons from "./modules/skillicons";
 import { getActivity } from "./modules/githubActivity";
@@ -16,7 +17,7 @@ void readFile(join(__dirname, "../src/template.md"), "utf8").then(async template
     .replace(/<!--ACTIVITY-->/gmu, await getActivity())
     .replace(/<!--DATE-->/gmu, new Date().toLocaleString());
 
-  await mkdir(join(__dirname, "../output")).catch(() => null);
+  await ensureDir(join(__dirname, "../output")).catch(() => null);
   void writeFile(join(__dirname, "../output/README.md"), output, "utf8");
-  void copyFile(join(__dirname, "../.github/renovate.json"), join(__dirname, "../output/renovate.json"));
+  void copy(join(__dirname, "../.github"), join(__dirname, "../output/.github"));
 });
