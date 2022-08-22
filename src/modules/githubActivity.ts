@@ -37,10 +37,10 @@ const eventList: Record<string, (event: any) => string | null> = { // eslint-dis
   DeleteEvent: (event: Event & { payload: { ref_type: string }}) => event.payload.ref_type === "repository" ? `${emojis.delete} Deleted ${event.repo.name}` : null,
 };
 
-export async function getActivity(): Promise<string> {
+export async function getAllActivity(): Promise<string> {
   return (await events)
     .filter(event => event.type && event.type in eventList)
-    .slice(0, 25)
+    .slice(0, 50)
     .map(event => eventList[event.type!]!(event))
     .filter(Boolean)
     .join("\n");

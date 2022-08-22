@@ -13,15 +13,19 @@ a `<!--AGE-->`-year old Node developer cruising through life with a terrible mus
 
 ## Recent GitHub Activity
 
-```
-<!--ACTIVITY-->
-```
+<details>
+  <summary>My 50 most recent public activity on GitHub</summary>
+
+  ```
+  <!--ALL_ACTIVITY-->
+  ```
+</details>
 
 ## FAQ
 
 ### You have unsigned commits, why?
 
-I am trying out [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits) on GitHub, starting from November 1st 2021. Any commits before this that is "unverified" is still me, but I will try and verify each commit going forward.
+I am using [vigilant mode](https://docs.github.com/github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits) on GitHub, starting from November 1st 2021. Any commits before this that is "unverified" is still me, but I will try and verify each commit going forward.
 
 ### What coding style do you use?
 

@@ -63,6 +63,6 @@ jobs:
         FOLDER: output
         GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         SQUASH_HISTORY: true
-        MESSAGE: "Welcome to my profile"
+        MESSAGE: "profile automation 🎉"
         USERNAME: "github-actions[bot]"
         EMAIL: "github-actions[bot]@users.noreply.github.com"
