@@ -10,25 +10,6 @@ on:
     - cron: '0 12 * * 3'
 
 jobs:
-  codeql:
-    name: CodeQL Analysis
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
-      with:
-        ref: main
-
-    - name: Initialize
-      uses: github/codeql-action/init@f5d217be74900c6ac8fbbe53f3c10376ba4e64da # tag=v2
-
-    - name: Autobuild
-      uses: github/codeql-action/autobuild@f5d217be74900c6ac8fbbe53f3c10376ba4e64da # tag=v2
-
-    - name: Perform analysis and upload results
-      uses: github/codeql-action/analyze@f5d217be74900c6ac8fbbe53f3c10376ba4e64da # tag=v2
-
   njsscan:
     name: NJS Scan
     runs-on: ubuntu-latest
