@@ -3,7 +3,7 @@ name: Label sync
 on:
   push:
     branches:
-      - promise
+      - main
     paths:
       - './github/labels.yml'
   workflow_dispatch:

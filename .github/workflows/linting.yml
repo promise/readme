@@ -2,10 +2,10 @@ name: Linting
 on:
   push:
     branches:
-    - promise
+    - main
   pull_request:
     branches:
-    - promise
+    - main
 
 jobs:
   eslint:
