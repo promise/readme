@@ -11,7 +11,7 @@ export async function getActivityPie(): Promise<string> {
   return dedent`
     \`\`\`mermaid
       pie showData
-        title GitHub Activity the last 7 days
+        title GitHub Commits the last 7 days
         ${Object.entries(repositories)
     .sort((a, b) => b[1] - a[1])
     .map(([repository, commits]) => `"${repository}" : ${commits}`)
