@@ -1,4 +1,3 @@
-import { copy, ensureDir } from "fs-extra";
 import { readFile, writeFile } from "fs/promises";
 import env from "./environment";
 import generateSkillIcons from "./modules/skillicons";
@@ -17,7 +16,5 @@ void readFile(join(__dirname, "../src/template.md"), "utf8").then(async template
     .replace(/<!--ALL_ACTIVITY-->/gmu, await getAllActivity())
     .replace(/<!--DATE-->/gmu, new Date().toLocaleString());
 
-  await ensureDir(join(__dirname, "../output")).catch(() => null);
-  void writeFile(join(__dirname, "../output/README.md"), output, "utf8");
-  void copy(join(__dirname, "../.github"), join(__dirname, "../output/.github"));
+  void writeFile("./README.md", output, "utf8");
 });

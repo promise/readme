@@ -2,14 +2,31 @@ name: Analysis and Scans
 on:
   push:
     branches:
-    - main
+    - promise
   pull_request:
     branches:
-    - main
+    - promise
   schedule:
     - cron: '0 12 * * 3'
 
 jobs:
+  codeql:
+    name: CodeQL Analysis
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
+
+    - name: Initialize
+      uses: github/codeql-action/init@7fee4ca032ac341c12486c4c06822c5221c76533 # tag=v2
+
+    - name: Autobuild
+      uses: github/codeql-action/autobuild@7fee4ca032ac341c12486c4c06822c5221c76533 # tag=v2
+
+    - name: Perform analysis and upload results
+      uses: github/codeql-action/analyze@7fee4ca032ac341c12486c4c06822c5221c76533 # tag=v2
+
   njsscan:
     name: NJS Scan
     runs-on: ubuntu-latest
@@ -17,8 +34,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
-      with:
-        ref: main
 
     - name: Perform scan
       uses: ajinabraham/njsscan-action@master
@@ -37,8 +52,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
-      with:
-        ref: main
 
     - name: Perform analysis
       uses: github/ossar-action@v1

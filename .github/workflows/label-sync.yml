@@ -3,7 +3,7 @@ name: Label sync
 on:
   push:
     branches:
-      - main
+      - promise
     paths:
       - './github/labels.yml'
   workflow_dispatch:
@@ -16,8 +16,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
-      with:
-        ref: main
 
     - name: Label sync
       uses: crazy-max/ghaction-github-labeler@77450f9fa47c41fbab15c0923417fff00730ffa3 # tag=v4

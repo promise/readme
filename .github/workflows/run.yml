@@ -3,10 +3,10 @@ name: Profile README
 on:
   push:
     branches:
-    - main
+    - promise
   pull_request:
     branches:
-    - main
+    - promise
   schedule:
     - cron: "0,30 * * * *"
   workflow_dispatch:
@@ -19,8 +19,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
-      with:
-        ref: main
 
     - name: Set up node
       uses: actions/setup-node@2fddd8803e2f5c9604345a0b591c3020ee971a93 # tag=v3
@@ -56,13 +54,11 @@ jobs:
 
     - name: Commit and push
       if: ${{ github.event_name != 'pull_request' }}
-      uses: ozaner/git-publish-subdir-action@develop
-      env:
-        REPO: self
-        BRANCH: promise
-        FOLDER: output
-        GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
-        SQUASH_HISTORY: true
-        MESSAGE: "profile automation 🎉"
-        USERNAME: "github-actions[bot]"
-        EMAIL: "github-actions[bot]@users.noreply.github.com"
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        author_email: github-actions[bot]@users.noreply.github.com
+        author_name: "github-actions[bot]"
+        message: "profile automation 🎉"
+        branch: "promise"
+        force: true
