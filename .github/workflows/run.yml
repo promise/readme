@@ -54,11 +54,14 @@ jobs:
 
     - name: Commit and push
       if: ${{ github.event_name != 'pull_request' }}
-      uses: actions-js/push@master
-      with:
-        github_token: ${{ secrets.PAT_TOKEN }}
-        message: "profile automation 🎉"
-        branch: "promise"
-        force: true
-        directory: "output"
-        repository: "promise/promise"
+      uses: ozaner/git-publish-subdir-action@develop
+      env:
+        REPO: git@github.com:promise/promise.git
+        BRANCH: promise
+        FOLDER: output
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        SQUASH_HISTORY: true
+        SKIP_EMPTY_COMMITS: false
+        MESSAGE: "profile automation 🎉"
+        USERNAME: "github-actions[bot]"
+        EMAIL: "github-actions[bot]@users.noreply.github.com"
