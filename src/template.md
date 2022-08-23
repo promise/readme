@@ -2,8 +2,8 @@
 [![discord:playing](https://dev.discordprofiles.me/badge/playing/110090225929191424)](https://discord.com/users/110090225929191424)
 [![discord:vscode](https://dev.discordprofiles.me/badge/vscode/110090225929191424)](https://discord.com/users/110090225929191424)
 [![discord:spotify](https://dev.discordprofiles.me/badge/spotify/110090225929191424)](https://dev.discordprofiles.me/openspotify/110090225929191424)
-[![discord:chat](https://img.shields.io/discord/449576301997588490)](https://i.promise.solutions/discord)
-[![profile automation](https://img.shields.io/github/workflow/status/promise/promise/README%20Update?label=profile%20automation)](https://github.com/promise/promise/actions/workflows/README.yml)
+[![discord:chat](https://img.shields.io/discord/449576301997588490)](https://promise.solutions/discord)
+[![profile automation](https://img.shields.io/github/workflow/status/promise/readme/README%20Update?label=profile%20automation)](https://github.com/promise/readme/actions/workflows/README.yml)
 
 # 👋 I'm <!--NAME-->
 
