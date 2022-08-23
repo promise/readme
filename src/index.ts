@@ -16,7 +16,7 @@ void readFile(join(__dirname, "../src/template.md"), "utf8").then(async template
     .replace(/<!--SKILLICONS-->/gmu, generateSkillIcons())
     .replace(/<!--MERMAID_PIE-->/gmu, await getActivityPie())
     .replace(/<!--ALL_ACTIVITY-->/gmu, await getAllActivity())
-    .replace(/<!--DATE-->/gmu, new Date().toLocaleString());
+    .replace(/<!--TIMESTAMP-->/gmu, String(Math.floor(Date.now() / 1000)));
 
   await mkdir("./output").catch(() => null);
   void writeFile("./output/README.md", output, "utf8");
