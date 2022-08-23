@@ -54,14 +54,14 @@ jobs:
 
     - name: Commit and push
       if: ${{ github.event_name != 'pull_request' }}
-      uses: cpina/github-action-push-to-another-repository@main
+      uses: ozaner/git-publish-subdir-action@develop
       env:
-        API_TOKEN_GITHUB: ${{ secrets.PAT_TOKEN }}
-      with:
-        source-directory: "output"
-        destination-github-username: "promise"
-        destination-repository-name: "promise"
-        user-email: "github-actions[bot]@users.noreply.github.com"
-        user-name: "github-actions[bot]"
-        target-branch: "promise"
-        commit-message: "profile automation 🎉"
+        REPO: git@github.com:promise/promise.git
+        BRANCH: promise
+        FOLDER: output
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        SQUASH_HISTORY: true
+        SKIP_EMPTY_COMMITS: false
+        MESSAGE: "profile automation 🎉"
+        USERNAME: "github-actions[bot]"
+        EMAIL: "github-actions[bot]@users.noreply.github.com"
