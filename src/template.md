@@ -13,12 +13,14 @@ a `<!--AGE-->`-year old Node developer cruising through life with a terrible mus
 
 ## Recent GitHub Activity
 
-<details>
-  <summary>My 50 most recent public activity on GitHub</summary>
+<!--MERMAID_PIE-->
 
-  ```
-  <!--ALL_ACTIVITY-->
-  ```
+<details>
+  <summary>My 200 most recent public activity on GitHub</summary>
+
+```
+<!--ALL_ACTIVITY-->
+```
 </details>
 
 ## FAQ
@@ -39,4 +41,4 @@ I have my own mutual config repository I use everywhere here: https://github.com
 
 **TL;DR: Maybe.** You can join my [Discord](https://promise.solutions/discord) and go to the #coding channel (below #general), there's plenty of developers in the server and they all having different experiences with different languages and packages. We can, of course, not guarantee you'll get your answer, but we don't bite so give it a shot ;)
 
-> Thanks for checking out my profile. Last updated at `<!--DATE-->`.
+> Thanks for checking out my profile. Last updated at `<!--DATE--> GMT`.

@@ -2,10 +2,23 @@ import { capitalize } from "../utils/text";
 import env from "../environment";
 import octokit from "../utils/github";
 
-const events = octokit.rest.activity.listPublicEventsForUser({ username: env.username, per_page: 100 }).then(({ data }) => {
-  const eventsAfterTwoWeeksAgo = data.filter(({ created_at }) => new Date(String(created_at)) > new Date(Date.now() - 1000 * 60 * 60 * 24 * 14));
-  return eventsAfterTwoWeeksAgo.map(({ type, repo, payload, created_at }) => ({ type, repo, payload, date: new Date(String(created_at)) })).sort((a, b) => b.date.getTime() - a.date.getTime());
-});
+export const events = (async (numberOfEvents: number) => {
+  const chunks = [];
+  let page = 0;
+  let lastPage = 0;
+  while (chunks.length < numberOfEvents && lastPage >= page) {
+    const response = await octokit.rest.activity.listPublicEventsForUser({ username: env.username, per_page: 100, page });
+    if (response.headers.link) {
+      const parts = response.headers.link.split(",").map(part => part.trim());
+      const lastPart = parts.find(part => part.endsWith("rel=\"last\""));
+      lastPage = Number(lastPart?.split("&page=")[1]?.split(">;")[0] ?? 0);
+    }
+    chunks.push(...response.data.filter(event => event.repo.name !== `${env.username}/${env.username}`));
+    page += 1;
+  }
+
+  return chunks.slice(0, numberOfEvents);
+})(1000);
 
 const emojis = {
   push: "✨",
@@ -40,7 +53,7 @@ const eventList: Record<string, (event: any) => string | null> = { // eslint-dis
 export async function getAllActivity(): Promise<string> {
   return (await events)
     .filter(event => event.type && event.type in eventList)
-    .slice(0, 50)
+    .slice(0, 200)
     .map(event => eventList[event.type!]!(event))
     .filter(Boolean)
     .join("\n");
