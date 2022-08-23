@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "fs/promises";
+import { mkdir, readFile, writeFile } from "fs/promises";
 import env from "./environment";
 import generateSkillIcons from "./modules/skillicons";
 import { getAllActivity } from "./modules/githubActivity";
@@ -16,5 +16,6 @@ void readFile(join(__dirname, "../src/template.md"), "utf8").then(async template
     .replace(/<!--ALL_ACTIVITY-->/gmu, await getAllActivity())
     .replace(/<!--DATE-->/gmu, new Date().toLocaleString());
 
-  void writeFile("./README.md", output, "utf8");
+  await mkdir("./output").catch(() => null);
+  void writeFile("./output/README.md", output, "utf8");
 });
