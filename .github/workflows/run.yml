@@ -63,5 +63,5 @@ jobs:
         SQUASH_HISTORY: true
         SKIP_EMPTY_COMMITS: false
         MESSAGE: "profile automation 🎉"
-        COMMIT_NAME: "promise[bot]"
-        COMMIT_EMAIL: "glenn@not-tech.support"
+        COMMIT_NAME: "github-actions[bot]"
+        COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
