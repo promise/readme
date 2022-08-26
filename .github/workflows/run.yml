@@ -64,3 +64,4 @@ jobs:
         SKIP_EMPTY_COMMITS: false
         MESSAGE: "profile automation 🎉"
         COMMIT_NAME: "promise[bot]"
+        COMMIT_EMAIL: "glenn@not-tech.support"
