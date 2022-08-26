@@ -63,4 +63,4 @@ jobs:
         SQUASH_HISTORY: true
         SKIP_EMPTY_COMMITS: false
         MESSAGE: "profile automation 🎉"
-        USERNAME: "promise[bot]"
+        COMMIT_NAME: "promise[bot]"
