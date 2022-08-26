@@ -8,7 +8,7 @@ on:
     branches:
     - main
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 */8 * * *"
   workflow_dispatch:
 
 jobs:
@@ -63,5 +63,4 @@ jobs:
         SQUASH_HISTORY: true
         SKIP_EMPTY_COMMITS: false
         MESSAGE: "profile automation 🎉"
-        USERNAME: "github-actions[bot]"
-        EMAIL: "github-actions[bot]@users.noreply.github.com"
+        USERNAME: "promise[bot]"
