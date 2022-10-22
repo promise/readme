@@ -19,7 +19,7 @@
     "@tsconfig/node16-strictest": "1.0.4",
     "@types/dedent": "0.7.0",
     "@types/node": "16.11.68",
-    "eslint": "8.25.0",
+    "eslint": "8.26.0",
     "eslint-config-promise": "github:promise/eslint-config",
     "typescript": "4.8.4"
   },
