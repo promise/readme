@@ -54,7 +54,7 @@ jobs:
 
     - name: Commit and push
       if: ${{ github.event_name != 'pull_request' }}
-      uses: promise/git-publish-subdir-action@feat/author-env-variables
+      uses: s0/git-publish-subdir-action@develop
       env:
         REPO: git@github.com:promise/promise.git
         BRANCH: promise
