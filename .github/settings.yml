@@ -1,0 +1,18 @@
+_extends: .github
+
+repository:
+  name: readme
+  description: "Automated GitHub profile readme"
+  homepage: "https://github.com/promise"
+  topics: profile-readme
+
+branches:
+  - name: main
+    protection:
+      required_status_checks:
+        contexts:
+          - "Recreate README"
+          - "ESLint"
+          - "CodeQL Analysis"
+          - "OSSAR Analysis"
+          - "NJS Scan"
