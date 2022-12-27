@@ -4,15 +4,16 @@ repository:
   name: readme
   description: "Automated GitHub profile readme"
   homepage: "https://github.com/promise"
+  private: false
   topics: profile-readme
 
 branches:
   - name: main
     protection:
       required_status_checks:
-        contexts:
-          - "Recreate README"
-          - "ESLint"
-          - "CodeQL Analysis"
-          - "OSSAR Analysis"
-          - "NJS Scan"
+        checks:
+          - context: Recreate README
+          - context: ESLint
+          - context: CodeQL Analysis
+          - context: OSSAR Analysis
+          - context: NJS Scan
