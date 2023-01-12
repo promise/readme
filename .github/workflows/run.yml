@@ -23,7 +23,7 @@ jobs:
     - name: Set up node
       uses: actions/setup-node@64ed1c7eab4cce3362f8c340dee64e5eaeef8f7c # v3
       with:
-        node-version: "16.x"
+        node-version: "18.x"
 
     - name: Restore cached modules
       uses: actions/cache@58c146cc91c5b9e778e71775dfe9bf1442ad9a12 # v3

@@ -16,7 +16,7 @@
     "dotenv": "16.0.3"
   },
   "devDependencies": {
-    "@tsconfig/node16-strictest": "1.0.4",
+    "@tsconfig/node18-strictest": "1.0.0",
     "@types/dedent": "0.7.0",
     "@types/node": "16.18.11",
     "eslint": "8.31.0",
