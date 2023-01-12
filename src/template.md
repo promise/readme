@@ -15,7 +15,7 @@ a `<!--AGE-->`-year old Node developer cruising through life with a terrible mus
 <!--MERMAID_PIE-->
 
 <details>
-  <summary>My 200 most recent public activity on GitHub</summary>
+  <summary>My most recent activity on GitHub</summary>
 
 ```
 <!--ALL_ACTIVITY-->
