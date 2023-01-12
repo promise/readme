@@ -62,6 +62,6 @@ jobs:
         SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
         SQUASH_HISTORY: true
         SKIP_EMPTY_COMMITS: false
-        MESSAGE: "profile automation 🎉"
+        MESSAGE: "chore: profile automation 🎉"
         COMMIT_NAME: "github-actions[bot]"
         COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
