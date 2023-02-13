@@ -40,4 +40,4 @@ I have my own mutual config repository I use everywhere here: https://github.com
 
 **TL;DR: Maybe.** You can join my [Discord](https://promise.solutions/discord) and go to the #coding channel (below #general), there's plenty of developers in the server and they all having different experiences with different languages and packages. We can, of course, not guarantee you'll get your answer, but we don't bite so give it a shot ;)
 
-> Thanks for checking out my profile. [![profile automation](https://img.shields.io/github/workflow/status/promise/readme/README%20Update?label=profile%20automation)](https://github.com/promise/readme/actions/workflows/README.yml) ![last update](https://img.shields.io/date/<!--TIMESTAMP-->?label=updated)
+> Thanks for checking out my profile. [![profile automation](https://img.shields.io/github/actions/workflow/status/promise/readme/run.yml?label=profile%20automation)](https://github.com/promise/readme/actions/workflows/run.yml) ![last update](https://img.shields.io/date/<!--TIMESTAMP-->?label=updated)
