@@ -1,9 +1,9 @@
 import { mkdir, readFile, writeFile } from "fs/promises";
-import env from "./environment";
-import generateSkillIcons from "./modules/skillicons";
-import { getActivityPie } from "./modules/mermaid/projectPie";
-import { getAllActivity } from "./modules/githubActivity";
 import { join } from "path";
+import env from "./environment";
+import { getAllActivity } from "./modules/githubActivity";
+import getActivityPie from "./modules/mermaid/projectPie";
+import generateSkillIcons from "./modules/skillicons";
 import octokit from "./utils/github";
 import { yearInMs } from "./utils/time";
 

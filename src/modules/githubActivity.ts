@@ -1,6 +1,6 @@
-import { capitalize } from "../utils/text";
 import env from "../environment";
 import octokit from "../utils/github";
+import { capitalize } from "../utils/text";
 
 export const events = (async (numberOfEvents: number) => {
   const chunks = [];

@@ -1,6 +1,7 @@
-import "dotenv/config";
 import { context } from "@actions/github";
+import { config } from "dotenv";
 
+config();
 if (!process.env["GITHUB_TOKEN"]) throw new Error("GITHUB_TOKEN is not set");
 
 const env = {
