@@ -5,7 +5,7 @@ specifiers:
   '@actions/github': 5.1.1
   '@tsconfig/node18-strictest': 1.0.0
   '@types/dedent': 0.7.0
-  '@types/node': 18.13.0
+  '@types/node': 18.14.2
   dedent: 0.7.0
   dotenv: 16.0.3
   eslint: 8.34.0
@@ -21,9 +21,9 @@ dependencies:
 devDependencies:
   '@tsconfig/node18-strictest': 1.0.0
   '@types/dedent': 0.7.0
-  '@types/node': 18.13.0
+  '@types/node': 18.14.2
   eslint: 8.34.0
-  eslint-config-promise: github.com/promise/eslint-config/a8be6a4e0acebc22660e8d8da113ae1a02063d30_gfimlaspltqgi347eqs725rbra
+  eslint-config-promise: github.com/promise/eslint-config/cedebec7a53d7fd53203069babe42674eaee118b_gfimlaspltqgi347eqs725rbra
   typescript: 4.9.5
 
 packages:
@@ -226,8 +226,8 @@ packages:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
 
-  /@types/node/18.13.0:
-    resolution: {integrity: sha512-gC3TazRzGoOnoKAhUx+Q0t8S9Tzs74z7m0ipwGpSqQrleP14hKxP4/JUeEQcD3W1/aIpnWl8pHowI7WokuZpXg==}
+  /@types/node/18.14.2:
+    resolution: {integrity: sha512-1uEQxww3DaghA0RxqHx0O0ppVlo43pJhepY51OxuQIKHpjbnYLA7vcdwioNPzIqmC2u3I/dmylcqjlh0e7AyUA==}
     dev: true
 
   /@types/semver/7.3.13:
@@ -1964,9 +1964,9 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  github.com/promise/eslint-config/a8be6a4e0acebc22660e8d8da113ae1a02063d30_gfimlaspltqgi347eqs725rbra:
-    resolution: {tarball: https://codeload.github.com/promise/eslint-config/tar.gz/a8be6a4e0acebc22660e8d8da113ae1a02063d30}
-    id: github.com/promise/eslint-config/a8be6a4e0acebc22660e8d8da113ae1a02063d30
+  github.com/promise/eslint-config/cedebec7a53d7fd53203069babe42674eaee118b_gfimlaspltqgi347eqs725rbra:
+    resolution: {tarball: https://codeload.github.com/promise/eslint-config/tar.gz/cedebec7a53d7fd53203069babe42674eaee118b}
+    id: github.com/promise/eslint-config/cedebec7a53d7fd53203069babe42674eaee118b
     name: eslint-config-promise
     version: 0.0.0
     peerDependencies:
