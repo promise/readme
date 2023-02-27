@@ -3,21 +3,21 @@ import octokit from "../utils/github";
 import { capitalize } from "../utils/text";
 
 export const events = (async (numberOfEvents: number) => {
-  const chunks = [];
+  const allEvents = [];
   let page = 0;
   let lastPage = 0;
-  while (chunks.length < numberOfEvents && lastPage >= page) {
+  while (allEvents.length < numberOfEvents && lastPage >= page) {
     const response = await octokit.rest.activity.listPublicEventsForUser({ username: env.username, per_page: 100, page });
     if (response.headers.link) {
       const parts = response.headers.link.split(",").map(part => part.trim());
       const lastPart = parts.find(part => part.endsWith("rel=\"last\""));
       lastPage = Number(lastPart?.split("&page=")[1]?.split(">;")[0] ?? 0);
     }
-    chunks.push(...response.data.filter(event => event.repo.name !== `${env.username}/${env.username}`));
+    allEvents.push(...response.data.filter(event => !env.ignoreRepositories.includes(event.repo.name)));
     page += 1;
   }
 
-  return chunks.slice(0, numberOfEvents);
+  return allEvents.slice(0, numberOfEvents);
 })(1000);
 
 const emojis = {

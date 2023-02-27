@@ -8,14 +8,10 @@ const env = {
   token: process.env["GITHUB_TOKEN"],
   username: context.repo.owner || "promise",
   birth: new Date(process.env["DATE_OF_BIRTH"] ?? "2004-02-03").getTime(),
-  myRepositories: [
-    "biaw/*",
-    "countr/*",
-    "project-blurple/blurple-hammer",
-    "project-blurple/blurple-contests",
-    "project-blurple/bot-icon-sync",
-    "promise/*",
-  ],
+  ignoreRepositories: [
+    "promise/promise",
+    "promise/discord-tokens",
+  ] as string[],
   icons: [
     "ts",
     "nodejs",
