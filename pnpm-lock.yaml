@@ -23,7 +23,7 @@ devDependencies:
   '@types/dedent': 0.7.0
   '@types/node': 18.14.2
   eslint: 8.35.0
-  eslint-config-promise: github.com/promise/eslint-config/da2a451e236e5954f07c11e4fd8bcde32bd57f78_rmkx6i7hlbk22iwyaf5suymld4
+  eslint-config-promise: github.com/promise/eslint-config/0fb1a59575c5bdc93c67f5092dd329a745f06765_rmkx6i7hlbk22iwyaf5suymld4
   typescript: 4.9.5
 
 packages:
@@ -1970,9 +1970,9 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  github.com/promise/eslint-config/da2a451e236e5954f07c11e4fd8bcde32bd57f78_rmkx6i7hlbk22iwyaf5suymld4:
-    resolution: {tarball: https://codeload.github.com/promise/eslint-config/tar.gz/da2a451e236e5954f07c11e4fd8bcde32bd57f78}
-    id: github.com/promise/eslint-config/da2a451e236e5954f07c11e4fd8bcde32bd57f78
+  github.com/promise/eslint-config/0fb1a59575c5bdc93c67f5092dd329a745f06765_rmkx6i7hlbk22iwyaf5suymld4:
+    resolution: {tarball: https://codeload.github.com/promise/eslint-config/tar.gz/0fb1a59575c5bdc93c67f5092dd329a745f06765}
+    id: github.com/promise/eslint-config/0fb1a59575c5bdc93c67f5092dd329a745f06765
     name: eslint-config-promise
     version: 0.0.0
     peerDependencies:
