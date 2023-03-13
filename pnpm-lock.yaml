@@ -5,7 +5,7 @@ specifiers:
   '@actions/github': 5.1.1
   '@tsconfig/node18-strictest': 1.0.0
   '@types/dedent': 0.7.0
-  '@types/node': 18.15.0
+  '@types/node': 18.15.1
   dedent: 0.7.0
   dotenv: 16.0.3
   eslint: 8.36.0
@@ -21,9 +21,9 @@ dependencies:
 devDependencies:
   '@tsconfig/node18-strictest': 1.0.0
   '@types/dedent': 0.7.0
-  '@types/node': 18.15.0
+  '@types/node': 18.15.1
   eslint: 8.36.0
-  eslint-config-promise: github.com/promise/eslint-config/c3e65145b03c9258ebe74bed000ead320269469f_jpalyieylsbpjrtzdvsi36kkmy
+  eslint-config-promise: github.com/promise/eslint-config/7e2a7634821d1740e8417cdf384c58c77bbb9a01_jpalyieylsbpjrtzdvsi36kkmy
   typescript: 4.9.5
 
 packages:
@@ -246,8 +246,8 @@ packages:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
 
-  /@types/node/18.15.0:
-    resolution: {integrity: sha512-z6nr0TTEOBGkzLGmbypWOGnpSpSIBorEhC4L+4HeQ2iezKCi4f77kyslRwvHeNitymGQ+oFyIWGP96l/DPSV9w==}
+  /@types/node/18.15.1:
+    resolution: {integrity: sha512-U2TWca8AeHSmbpi314QBESRk7oPjSZjDsR+c+H4ECC1l+kFgpZf8Ydhv3SJpPy51VyZHHqxlb6mTTqYNNRVAIw==}
     dev: true
 
   /@types/semver/7.3.13:
@@ -1989,15 +1989,15 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  github.com/promise/eslint-config/c3e65145b03c9258ebe74bed000ead320269469f_jpalyieylsbpjrtzdvsi36kkmy:
-    resolution: {tarball: https://codeload.github.com/promise/eslint-config/tar.gz/c3e65145b03c9258ebe74bed000ead320269469f}
-    id: github.com/promise/eslint-config/c3e65145b03c9258ebe74bed000ead320269469f
+  github.com/promise/eslint-config/7e2a7634821d1740e8417cdf384c58c77bbb9a01_jpalyieylsbpjrtzdvsi36kkmy:
+    resolution: {tarball: https://codeload.github.com/promise/eslint-config/tar.gz/7e2a7634821d1740e8417cdf384c58c77bbb9a01}
+    id: github.com/promise/eslint-config/7e2a7634821d1740e8417cdf384c58c77bbb9a01
     name: eslint-config-promise
     version: 0.0.0
     peerDependencies:
       '@typescript-eslint/eslint-plugin': ^5.54.1
       '@typescript-eslint/parser': ^5.54.1
-      eslint: ^8.35.0
+      eslint: ^8.36.0
       eslint-import-resolver-typescript: ^3.5.3
       eslint-plugin-import: ^2.27.5
       eslint-plugin-jest: ^27.2.1
