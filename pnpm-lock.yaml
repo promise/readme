@@ -5,7 +5,7 @@ specifiers:
   '@actions/github': 5.1.1
   '@tsconfig/node18-strictest': 1.0.0
   '@types/dedent': 0.7.0
-  '@types/node': 18.15.8
+  '@types/node': 18.15.9
   dedent: 0.7.0
   dotenv: 16.0.3
   eslint: 8.36.0
@@ -21,7 +21,7 @@ dependencies:
 devDependencies:
   '@tsconfig/node18-strictest': 1.0.0
   '@types/dedent': 0.7.0
-  '@types/node': 18.15.8
+  '@types/node': 18.15.9
   eslint: 8.36.0
   eslint-config-promise: github.com/promise/eslint-config/817a823fce90b25f2eeecfbb73fc542c89e91c15_af74gqs66hrpo4afpw2vbfddc4
   typescript: 4.9.5
@@ -246,8 +246,8 @@ packages:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: true
 
-  /@types/node/18.15.8:
-    resolution: {integrity: sha512-kzGNJZ57XEH7RdckxZ7wfRjB9hgZABF+NLgR1B2zogUvV0gmK0/60VYA4yb4oKZckPiiJlmmfpdqTfCN0VRX+Q==}
+  /@types/node/18.15.9:
+    resolution: {integrity: sha512-dUxhiNzBLr6IqlZXz6e/rN2YQXlFgOei/Dxy+e3cyXTJ4txSUbGT2/fmnD6zd/75jDMeW5bDee+YXxlFKHoV0A==}
     dev: true
 
   /@types/semver/7.3.13:
