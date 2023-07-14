@@ -25,9 +25,6 @@ devDependencies:
   '@tsconfig/strictest':
     specifier: 2.0.1
     version: 2.0.1
-  '@types/dedent':
-    specifier: 0.7.0
-    version: 0.7.0
   '@types/node':
     specifier: 18.16.19
     version: 18.16.19
@@ -272,10 +269,6 @@ packages:
 
   /@tsconfig/strictest@2.0.1:
     resolution: {integrity: sha512-7JHHCbyCsGUxLd0pDbp24yz3zjxw2t673W5oAP6HCEdr/UUhaRhYd3SSnUsGCk+VnPVJVA4mXROzbhI+nyIk+w==}
-    dev: true
-
-  /@types/dedent@0.7.0:
-    resolution: {integrity: sha512-EGlKlgMhnLt/cM4DbUSafFdrkeJoC9Mvnj0PUCU7tFmTjMjNRT957kXCx0wYm3JuEq4o4ZsS5vG+NlkM2DMd2A==}
     dev: true
 
   /@types/json-schema@7.0.12:
