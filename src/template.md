@@ -1,7 +1,7 @@
-[![discord:status](https://dev.discordprofiles.me/badge/status/110090225929191424)](https://discord.com/users/110090225929191424)
-[![discord:playing](https://dev.discordprofiles.me/badge/playing/110090225929191424)](https://discord.com/users/110090225929191424)
-[![discord:vscode](https://dev.discordprofiles.me/badge/vscode/110090225929191424)](https://discord.com/users/110090225929191424)
-[![discord:spotify](https://dev.discordprofiles.me/badge/spotify/110090225929191424)](https://dev.discordprofiles.me/openspotify/110090225929191424)
+[![discord:status](https://api.statusbadges.me/badge/status/110090225929191424)](https://discord.com/users/110090225929191424)
+[![discord:playing](https://api.statusbadges.me/badge/playing/110090225929191424)](https://discord.com/users/110090225929191424)
+[![discord:vscode](https://api.statusbadges.me/badge/vscode/110090225929191424)](https://discord.com/users/110090225929191424)
+[![discord:spotify](https://api.statusbadges.me/badge/spotify/110090225929191424)](https://dev.discordprofiles.me/openspotify/110090225929191424)
 [![discord:chat](https://img.shields.io/discord/449576301997588490)](https://promise.solutions/discord)
 
 # 👋 I'm <!--NAME-->
