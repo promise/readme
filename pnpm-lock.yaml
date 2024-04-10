@@ -12,8 +12,8 @@ dependencies:
     specifier: 6.0.0
     version: 6.0.0
   dedent:
-    specifier: 1.5.1
-    version: 1.5.1
+    specifier: 1.5.2
+    version: 1.5.2
   dotenv:
     specifier: 16.4.5
     version: 16.4.5
@@ -948,8 +948,9 @@ packages:
       ms: 2.1.2
     dev: true
 
-  /dedent@1.5.1:
-    resolution: {integrity: sha512-+LxW+KLWxu3HW3M2w2ympwtqPrqYRzU8fqi6Fhd18fBALe15blJPI/I4+UHveMVG6lJqB4JNd4UG0S5cnVHwIg==}
+  /dedent@1.5.2:
+    resolution: {integrity: sha512-O4ncVvQ2ZI0KH+of+Evf956RssiyxvMgU0hE8QyG+rwmUjcxEYX4DoF9FQxIaHye3WQjPXrv3uRhlDrRzlq2CQ==}
+    engines: {node: '>=18'}
     peerDependencies:
       babel-plugin-macros: ^3.1.0
     peerDependenciesMeta:
