@@ -26,8 +26,8 @@ devDependencies:
     specifier: 2.0.5
     version: 2.0.5
   '@types/node':
-    specifier: 18.19.39
-    version: 18.19.39
+    specifier: 18.19.40
+    version: 18.19.40
   eslint:
     specifier: 8.57.0
     version: 8.57.0
@@ -361,8 +361,8 @@ packages:
     resolution: {integrity: sha512-5+fP8P8MFNC+AyZCDxrB2pkZFPGzqQWUzpSeuuVLvm8VMcorNYavBqoFcxK8bQz4Qsbn4oUEEem4wDLfcysGHA==}
     dev: true
 
-  /@types/node@18.19.39:
-    resolution: {integrity: sha512-nPwTRDKUctxw3di5b4TfT3I0sWDiWoPQCZjXhvdkINntwr8lcoVCKsTgnXeRubKIlfnV+eN/HYk6Jb40tbcEAQ==}
+  /@types/node@18.19.40:
+    resolution: {integrity: sha512-MIxieZHrm4Ee8XArBIc+Or9HINt2StOmCbgRcXGSJl8q14svRvkZPe7LJq9HKtTI1SK3wU8b91TjntUm7T69Pg==}
     dependencies:
       undici-types: 5.26.5
     dev: true
