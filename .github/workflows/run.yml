@@ -23,7 +23,7 @@ jobs:
     - name: Set up pnpm
       uses: pnpm/action-setup@v2
       with:
-        version: 8
+        run_install: false
 
     - name: Set up node
       uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # v4
@@ -42,11 +42,11 @@ jobs:
         key: ${{ github.sha }}
 
     - name: Fallback if build cache fails
-      run: npm run build
+      run: pnpm build
       if: steps.cache-build.outputs.cache-hit != 'true'
 
     - name: Recreate README
-      run: npm start
+      run: pnpm start
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
