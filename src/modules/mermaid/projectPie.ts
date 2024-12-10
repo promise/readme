@@ -13,9 +13,9 @@ export default async function getActivityPie(): Promise<string> {
       pie showData
         title GitHub Commits the last 7 days
         ${Object.entries(repositories)
-    .sort((a, b) => b[1] - a[1])
-    .map(([repository, commits]) => `"${repository}" : ${commits}`)
-    .join("\n        ")}
+          .sort((a, b) => b[1] - a[1])
+          .map(([repository, commits]) => `"${repository}" : ${commits}`)
+          .join("\n        ")}
     \`\`\`
   `;
 }

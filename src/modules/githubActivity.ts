@@ -1,3 +1,4 @@
+/* eslint-disable camelcase */
 import env from "../environment";
 import octokit from "../utils/github";
 import { capitalize } from "../utils/text";
@@ -39,15 +40,15 @@ const emojis = {
 };
 
 export type Event = Awaited<ReturnType<typeof octokit.rest.activity.listEventsForAuthenticatedUser>>["data"][number];
-const eventList: Record<string, (event: any) => string | null> = { // eslint-disable-line @typescript-eslint/no-explicit-any
+const eventList: Record<string, (event: any) => null | string> = { // eslint-disable-line @typescript-eslint/no-explicit-any
   IssueCommentEvent: (event: Event) => `${emojis.comment} Commented on #${event.payload.issue?.number ?? 0} in ${event.repo.name}`,
   IssuesEvent: (event: Event) => `${emojis.issue} ${capitalize(event.payload.action!)} issue #${event.payload.issue?.number ?? 0} in ${event.repo.name}`,
-  PullRequestEvent: (event: Event & { payload: { pull_request: { number: number; merged_at?: string } } }) => `${event.payload.pull_request.merged_at ? `${emojis.prMerged} Merged` : `${event.payload.action === "opened" ? emojis.pr : emojis.prRejected} ${capitalize(event.payload.action!)}`} PR #${event.payload.pull_request.number} in ${event.repo.name}`,
-  PullRequestReviewEvent: (event: Event & { payload: { pull_request: { number: number }; review: { state: string } } }) => `${emojis.review} ${capitalize(event.payload.action!)} review (${event.payload.review.state}) on PR #${event.payload.pull_request.number} in ${event.repo.name}`,
-  ForkEvent: (event: Event & { payload: { forkee: { full_name: string } } }) => `${emojis.fork} Forked ${event.payload.forkee.full_name} from ${event.repo.name}`,
-  PushEvent: (event: Event & { payload: { size: number } }) => `${emojis.push} Pushed ${event.payload.size} commit${event.payload.size > 1 ? "s" : ""} to ${event.repo.name}`,
-  CreateEvent: (event: Event & { payload: { ref_type: string } }) => event.payload.ref_type === "repository" ? `${emojis.create} Created ${event.repo.name}` : null,
-  DeleteEvent: (event: Event & { payload: { ref_type: string } }) => event.payload.ref_type === "repository" ? `${emojis.delete} Deleted ${event.repo.name}` : null,
+  PullRequestEvent: (event: { payload: { pull_request: { merged_at?: string; number: number } } } & Event) => `${event.payload.pull_request.merged_at ? `${emojis.prMerged} Merged` : `${event.payload.action === "opened" ? emojis.pr : emojis.prRejected} ${capitalize(event.payload.action!)}`} PR #${event.payload.pull_request.number} in ${event.repo.name}`,
+  PullRequestReviewEvent: (event: { payload: { pull_request: { number: number }; review: { state: string } } } & Event) => `${emojis.review} ${capitalize(event.payload.action!)} review (${event.payload.review.state}) on PR #${event.payload.pull_request.number} in ${event.repo.name}`,
+  ForkEvent: (event: { payload: { forkee: { full_name: string } } } & Event) => `${emojis.fork} Forked ${event.payload.forkee.full_name} from ${event.repo.name}`,
+  PushEvent: (event: { payload: { size: number } } & Event) => `${emojis.push} Pushed ${event.payload.size} commit${event.payload.size > 1 ? "s" : ""} to ${event.repo.name}`,
+  CreateEvent: (event: { payload: { ref_type: string } } & Event) => event.payload.ref_type === "repository" ? `${emojis.create} Created ${event.repo.name}` : null,
+  DeleteEvent: (event: { payload: { ref_type: string } } & Event) => event.payload.ref_type === "repository" ? `${emojis.delete} Deleted ${event.repo.name}` : null,
 };
 
 export async function getAllActivity(): Promise<string> {
