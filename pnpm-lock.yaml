@@ -28,14 +28,14 @@ importers:
         specifier: 2.0.6
         version: 2.0.6
       '@types/node':
-        specifier: 22.18.9
-        version: 22.18.9
+        specifier: 22.18.10
+        version: 22.18.10
       eslint:
         specifier: 9.37.0
         version: 9.37.0(jiti@1.21.7)
       eslint-config-promise:
         specifier: github:promise/eslint-config
-        version: https://codeload.github.com/promise/eslint-config/tar.gz/a1e1bf6870aeb946f7e8c7d627c14c0b318544c9(8224ddf5dab73fccfca5a4702e1e3510)
+        version: https://codeload.github.com/promise/eslint-config/tar.gz/fb5c0be3551a37fa0ddc95b8d8109062c622b7e7(8224ddf5dab73fccfca5a4702e1e3510)
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -236,8 +236,8 @@ packages:
   '@types/json5@0.0.29':
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
 
-  '@types/node@22.18.9':
-    resolution: {integrity: sha512-5yBtK0k/q8PjkMXbTfeIEP/XVYnz1R9qZJ3yUicdEW7ppdDJfe+MqXEhpqDL3mtn4Wvs1u0KLEG0RXzCgNpsSg==}
+  '@types/node@22.18.10':
+    resolution: {integrity: sha512-anNG/V/Efn/YZY4pRzbACnKxNKoBng2VTFydVu8RRs5hQjikP8CQfaeAV59VFSCzKNp90mXiVXW2QzV56rwMrg==}
 
   '@typescript-eslint/eslint-plugin@8.31.1':
     resolution: {integrity: sha512-oUlH4h1ABavI4F0Xnl8/fOtML/eu8nI2A1nYd+f+55XI0BLu+RIqKoCiZKNo6DtqZBEQm5aNKA20G3Z5w3R6GQ==}
@@ -590,8 +590,8 @@ packages:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
 
-  eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/a1e1bf6870aeb946f7e8c7d627c14c0b318544c9:
-    resolution: {tarball: https://codeload.github.com/promise/eslint-config/tar.gz/a1e1bf6870aeb946f7e8c7d627c14c0b318544c9}
+  eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/fb5c0be3551a37fa0ddc95b8d8109062c622b7e7:
+    resolution: {tarball: https://codeload.github.com/promise/eslint-config/tar.gz/fb5c0be3551a37fa0ddc95b8d8109062c622b7e7}
     version: 0.0.0
     peerDependencies:
       '@stylistic/eslint-plugin-js': 4.2.0
@@ -1745,7 +1745,7 @@ snapshots:
 
   '@types/json5@0.0.29': {}
 
-  '@types/node@22.18.9':
+  '@types/node@22.18.10':
     dependencies:
       undici-types: 6.21.0
 
@@ -2229,7 +2229,7 @@ snapshots:
 
   escape-string-regexp@4.0.0: {}
 
-  eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/a1e1bf6870aeb946f7e8c7d627c14c0b318544c9(8224ddf5dab73fccfca5a4702e1e3510):
+  eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/fb5c0be3551a37fa0ddc95b8d8109062c622b7e7(8224ddf5dab73fccfca5a4702e1e3510):
     dependencies:
       '@stylistic/eslint-plugin-js': 4.2.0(eslint@9.37.0(jiti@1.21.7))
       '@stylistic/eslint-plugin-jsx': 4.2.0(eslint@9.37.0(jiti@1.21.7))
