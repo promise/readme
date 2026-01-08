@@ -10,7 +10,7 @@
     "watch": "tsc -w"
   },
   "dependencies": {
-    "@actions/core": "2.0.1",
+    "@actions/core": "2.0.2",
     "@actions/github": "6.0.1",
     "dedent": "1.7.1",
     "dotenv": "17.2.3"
