@@ -28,8 +28,8 @@ importers:
         specifier: 2.0.8
         version: 2.0.8
       '@types/node':
-        specifier: 22.20.0
-        version: 22.20.0
+        specifier: 22.20.1
+        version: 22.20.1
       eslint:
         specifier: 9.39.4
         version: 9.39.4(jiti@1.21.7)
@@ -235,8 +235,8 @@ packages:
   '@types/json5@0.0.29':
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
 
-  '@types/node@22.20.0':
-    resolution: {integrity: sha512-QWlFW2wf3nTjC13/DqRnBpR4ZO36VJH/JVBkA/vcnmbTBNQIlnObqyqZE1tUR7+Ni23Lda8R1BxMfbXRpCUx5g==}
+  '@types/node@22.20.1':
+    resolution: {integrity: sha512-EANqOCF9QFyra+4pfxUcX9STKJpCLjMbObVzljIJomAWSnuSIEAvyzEU53GaajbXJEgdh0iEcPL+DGvpUd4k1Q==}
 
   '@typescript-eslint/eslint-plugin@8.31.1':
     resolution: {integrity: sha512-oUlH4h1ABavI4F0Xnl8/fOtML/eu8nI2A1nYd+f+55XI0BLu+RIqKoCiZKNo6DtqZBEQm5aNKA20G3Z5w3R6GQ==}
@@ -581,7 +581,7 @@ packages:
     engines: {node: '>=10'}
 
   eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/f35740d3efbeabb7f40ef7294fcefafc9d4b0148:
-    resolution: {gitHosted: true, tarball: https://codeload.github.com/promise/eslint-config/tar.gz/f35740d3efbeabb7f40ef7294fcefafc9d4b0148}
+    resolution: {gitHosted: true, integrity: sha512-qDWXd38Nxf4Yh2K/9KFnAu+3XCHZp0Ya8AsBuLDdlY8SIjHV1Fww28J95CLP7CCN+RazG24hvC7UzWvGMDVD1w==, tarball: https://codeload.github.com/promise/eslint-config/tar.gz/f35740d3efbeabb7f40ef7294fcefafc9d4b0148}
     version: 0.0.0
     peerDependencies:
       '@stylistic/eslint-plugin-js': 4.2.0
@@ -1714,7 +1714,7 @@ snapshots:
 
   '@types/json5@0.0.29': {}
 
-  '@types/node@22.20.0':
+  '@types/node@22.20.1':
     dependencies:
       undici-types: 6.21.0
 
