@@ -16,7 +16,7 @@
     "dotenv": "17.4.2"
   },
   "devDependencies": {
-    "@tsconfig/node22": "22.0.5",
+    "@tsconfig/node22": "22.0.6",
     "@tsconfig/strictest": "2.0.8",
     "@types/node": "22.20.1",
     "eslint": "9.39.5",
