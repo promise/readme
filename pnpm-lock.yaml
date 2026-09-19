@@ -176,8 +176,8 @@ importers:
         specifier: 1.7.2
         version: 1.7.2
       dotenv:
-        specifier: 17.4.2
-        version: 17.4.2
+        specifier: 18.0.1
+        version: 18.0.1
     devDependencies:
       '@tsconfig/node22':
         specifier: 22.0.6
@@ -193,7 +193,7 @@ importers:
         version: 9.39.5(jiti@1.21.7)(supports-color@7.2.0)
       eslint-config-promise:
         specifier: github:promise/eslint-config
-        version: https://codeload.github.com/promise/eslint-config/tar.gz/968151de2765b272a6cc5cd340fbb7629fa224cd(9423cd34796f386bf9791f9007aa797d)
+        version: https://codeload.github.com/promise/eslint-config/tar.gz/8f73daf2b5fa7d24f3e4f2ed542b4aa8ba8c3874(9423cd34796f386bf9791f9007aa797d)
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -690,9 +690,10 @@ packages:
     resolution: {integrity: sha512-35mSku4ZXK0vfCuHEDAwt55dg2jNajHZ1odvF+8SSr82EsZY4QmXfuWso8oEd8zRhVObSN18aM0CjSdoBX7zIw==}
     engines: {node: '>=0.10.0'}
 
-  dotenv@17.4.2:
-    resolution: {integrity: sha512-nI4U3TottKAcAD9LLud4Cb7b2QztQMUEfHbvhTH09bqXTxnSie8WnjPALV/WMCrJZ6UV/qHJ6L03OqO3LcdYZw==}
+  dotenv@18.0.1:
+    resolution: {integrity: sha512-0eR4m4D/jH5eaI3evo2ZqqMii5mrTCR12v12VChdie6O1gPHs7XAjzTep0CWc1Bd+oNx3vVfbi734dK4zghigw==}
     engines: {node: '>=12'}
+    hasBin: true
 
   dunder-proto@1.0.1:
     resolution: {integrity: sha512-KIN/nDJBQRcXw0MLVhZE9iQHmG68qAVIBg9CqmUYjmQIhgij9U5MFvrqkUL5FbtyyzZuOeOt0zdeRe4UY7ct+A==}
@@ -738,8 +739,8 @@ packages:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
 
-  eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/968151de2765b272a6cc5cd340fbb7629fa224cd:
-    resolution: {gitHosted: true, integrity: sha512-EwY9ITzj/PSeon1pzkuSq1hIO/GVPcW7xNC/6V/HA/7LnMBJb6ex+3c8Nn0pTuX8qemGVPAOOhHP1FAcPCikWw==, tarball: https://codeload.github.com/promise/eslint-config/tar.gz/968151de2765b272a6cc5cd340fbb7629fa224cd}
+  eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/8f73daf2b5fa7d24f3e4f2ed542b4aa8ba8c3874:
+    resolution: {gitHosted: true, integrity: sha512-ItZavnmH1BZMdkbrSytLtE3/4UM8k47PXCEtAXj0q8+AK6AjjNz8ycd/M57P2sgSS1AV211+8/4xuDIs5xh72g==, tarball: https://codeload.github.com/promise/eslint-config/tar.gz/8f73daf2b5fa7d24f3e4f2ed542b4aa8ba8c3874}
     version: 0.0.0
     peerDependencies:
       '@stylistic/eslint-plugin-js': 4.2.0
@@ -2239,7 +2240,7 @@ snapshots:
     dependencies:
       esutils: 2.0.3
 
-  dotenv@17.4.2: {}
+  dotenv@18.0.1: {}
 
   dunder-proto@1.0.1:
     dependencies:
@@ -2360,7 +2361,7 @@ snapshots:
 
   escape-string-regexp@4.0.0: {}
 
-  eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/968151de2765b272a6cc5cd340fbb7629fa224cd(9423cd34796f386bf9791f9007aa797d):
+  eslint-config-promise@https://codeload.github.com/promise/eslint-config/tar.gz/8f73daf2b5fa7d24f3e4f2ed542b4aa8ba8c3874(9423cd34796f386bf9791f9007aa797d):
     dependencies:
       '@stylistic/eslint-plugin-js': 4.2.0(eslint@9.39.5(jiti@1.21.7)(supports-color@7.2.0))
       '@stylistic/eslint-plugin-jsx': 4.2.0(eslint@9.39.5(jiti@1.21.7)(supports-color@7.2.0))
