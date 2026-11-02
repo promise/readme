@@ -19,7 +19,7 @@
     "@tsconfig/node24": "24.0.5",
     "@tsconfig/strictest": "2.0.8",
     "@types/node": "22.20.5",
-    "eslint": "10.13.0",
+    "eslint": "10.14.0",
     "eslint-config-promise": "github:promise/eslint-config",
     "typescript": "5.9.3"
   },
